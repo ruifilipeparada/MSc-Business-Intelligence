@@ -1,0 +1,1001 @@
+customer_id,full_name,age,gender,phone_number,email,district,call_minutes,messages,monthly_data_gb,monthly_bill_eur,contract_type
+CUST0001,William Vieira,58,male,995822412,william.vieira@gmail.com,Porto,607,140,10,91.57,Pré-Pago
+CUST0002,Álvaro Araújo,25,male,939958838,alvaro.araujo@gmail.com,Braga,196,786,240,21.27,Empresarial
+CUST0003,Luca Pereira,19,female,983197857,luca.pereira@gmail.com,Porto,202,361,190,56.41,Pré-Pago
+CUST0004,Anita Ferreira,41,female,922575562,anita.ferreira@gmail.com,Coimbra,500,364,80,65.59,Pré-Pago
+CUST0005,Leonor Carneiro,27,male,985329037,leonor.carneiro@gmail.com,Coimbra,223,478,230,81.49,Empresarial
+CUST0006,Joaquim Soares,38,male,966306997,joaquim.soares@gmail.com,Coimbra,551,167,150,74.82,Pré-Pago
+CUST0007,Edgar Gomes,36,male,931429110,edgar.gomes@gmail.com,Setúbal,548,298,110,40.57,Pré-Pago
+CUST0008,Hugo Correia,54,male,955176955,hugo.correia@gmail.com,Porto,990,113,30,51.79,Pós-Pago
+CUST0009,Márcio Mendes,60,male,956164955,marcio.mendes@gmail.com,Faro,719,93,20,90.27,Empresarial
+CUST0010,Vicente Guerreiro,51,male,926753883,vicente.guerreiro@gmail.com,Setúbal,518,171,30,70.72,Empresarial
+CUST0011,Marcos Sousa,32,male,993016315,marcos.sousa@gmail.com,Aveiro,243,595,190,31.15,Pré-Pago
+CUST0012,Leandro Pinheiro,21,male,916150444,leandro.pinheiro@gmail.com,Coimbra,89,685,250,41.83,Pré-Pago
+CUST0013,Ariana Almeida,32,female,941244663,ariana.almeida@gmail.com,Porto,445,230,130,40.58,Empresarial
+CUST0014,Ariana Carvalho,39,female,958966946,ariana.carvalho@gmail.com,Braga,416,105,120,49.08,Empresarial
+CUST0015,Ana do Morais,30,female,945833156,ana.do.morais@gmail.com,Porto,295,304,200,79.85,Empresarial
+CUST0016,Carolina Silva,48,female,942857966,carolina.silva@gmail.com,Braga,591,115,150,51.74,Empresarial
+CUST0017,Ivo Matos,31,male,984752529,ivo.matos@gmail.com,Coimbra,124,530,220,45.67,Pré-Pago
+CUST0018,Vicente Pinto,52,male,940742311,vicente.pinto@gmail.com,Lisboa,587,252,110,54.13,Pré-Pago
+CUST0019,Isabela Vaz,41,female,938317637,isabela.vaz@gmail.com,Aveiro,578,114,70,82.1,Pós-Pago
+CUST0020,Patrícia Costa,75,female,996282117,patricia.costa@gmail.com,Leiria,573,144,50,39.14,Pré-Pago
+CUST0021,Micael Nogueira,30,male,985345555,micael.nogueira@gmail.com,Faro,110,400,240,74.3,Empresarial
+CUST0022,Miriam Campos,37,male,963606628,miriam.campos@gmail.com,Aveiro,459,266,80,119.71,Pré-Pago
+CUST0023,Nuno Simões,61,male,978387461,nuno.simoes@gmail.com,Leiria,524,166,30,93.14,Pré-Pago
+CUST0024,Jéssica do Mota,21,female,930514014,jessica.do.mota@gmail.com,Braga,274,852,220,56.44,Pré-Pago
+CUST0025,Benjamim Araújo,30,male,961642594,benjamim.araujo@gmail.com,Setúbal,77,528,200,119.57,Empresarial
+CUST0026,Victória Pinto,34,female,943744231,victoria.pinto@gmail.com,Lisboa,123,308,220,89.28,Empresarial
+CUST0027,Raquel Alves,23,male,982070937,raquel.alves@gmail.com,Faro,187,374,250,80.51,Pré-Pago
+CUST0028,Petra Figueiredo,52,female,949392920,petra.figueiredo@gmail.com,Setúbal,393,164,60,59.91,Empresarial
+CUST0029,Vasco Araújo,19,male,945351479,vasco.araujo@gmail.com,Braga,200,545,170,110.39,Empresarial
+CUST0030,Duarte Reis,73,male,950056581,duarte.reis@gmail.com,Coimbra,500,60,50,51.13,Pré-Pago
+CUST0031,Samuel Garcia,23,male,982394227,samuel.garcia@gmail.com,Lisboa,175,791,200,45.66,Pré-Pago
+CUST0032,João Cunha,45,male,925014631,joao.cunha@gmail.com,Aveiro,233,158,100,36.34,Pré-Pago
+CUST0033,Nicole Silva,53,male,986149359,nicole.silva@gmail.com,Porto,651,112,30,90.51,Pré-Pago
+CUST0034,Nicole Coelho,75,male,981498611,nicole.coelho@gmail.com,Braga,592,73,50,82.57,Empresarial
+CUST0035,Violeta Matos,32,female,932162965,violeta.matos@gmail.com,Faro,285,411,170,105.97,Pós-Pago
+CUST0036,Tomé Vicente,23,male,938427073,tome.vicente@gmail.com,Coimbra,290,820,230,44.29,Empresarial
+CUST0037,Rui Guerreiro,39,male,997225156,rui.guerreiro@gmail.com,Aveiro,291,275,150,108.96,Pós-Pago
+CUST0038,Daniel Cardoso,55,male,926240908,daniel.cardoso@gmail.com,Coimbra,449,199,80,17.04,Pré-Pago
+CUST0039,Leonor Matos,23,male,988961459,leonor.matos@gmail.com,Coimbra,244,766,190,34.22,Pré-Pago
+CUST0040,Alícia Leal Mendes,53,female,994705205,alicia.leal.mendes@gmail.com,Lisboa,214,313,80,17.41,Pré-Pago
+CUST0041,Ângelo Costa,20,male,954349361,angelo.costa@gmail.com,Porto,127,305,170,36.18,Empresarial
+CUST0042,Constança Garcia,26,female,975151231,constanca.garcia@gmail.com,Coimbra,211,359,180,24.55,Empresarial
+CUST0043,Laura do Alves,45,female,987337818,laura.do.alves@gmail.com,Leiria,386,392,80,96.31,Pós-Pago
+CUST0044,Francisco Nascimento,56,male,935556386,francisco.nascimento@gmail.com,Porto,830,131,40,82.49,Pós-Pago
+CUST0045,Letícia Figueiredo Rocha,34,female,966851760,leticia.figueiredo.rocha@gmail.com,Setúbal,273,316,150,105.02,Pré-Pago
+CUST0046,Nuno Freitas,59,male,997705310,nuno.freitas@gmail.com,Porto,821,68,20,54.29,Pós-Pago
+CUST0047,Renato Rocha Miranda,35,male,924665841,renato.rocha.miranda@gmail.com,Coimbra,300,322,70,30.92,Pós-Pago
+CUST0048,Inês Andrade Gomes,42,male,928814949,ines.andrade.gomes@gmail.com,Setúbal,547,205,60,40.64,Pré-Pago
+CUST0049,Alexandre Lopes,21,male,920117988,alexandre.lopes@gmail.com,Leiria,57,341,180,20.77,Empresarial
+CUST0050,Valentim Paiva,74,male,982556484,valentim.paiva@gmail.com,Lisboa,658,104,30,111.9,Pré-Pago
+CUST0051,Júlia Pinheiro,35,female,932321899,julia.pinheiro@gmail.com,Setúbal,248,691,160,62.95,Pós-Pago
+CUST0052,Rodrigo Amaral,30,male,917869910,rodrigo.amaral@gmail.com,Braga,277,105,130,10.24,Pós-Pago
+CUST0053,Igor Brito,48,male,945594951,igor.brito@gmail.com,Leiria,492,205,100,56.53,Empresarial
+CUST0054,Brian da Lima,58,male,984593961,brian.da.lima@gmail.com,Leiria,804,158,50,30.89,Pré-Pago
+CUST0055,Gabriela Magalhães,32,female,917849494,gabriela.magalhaes@gmail.com,Lisboa,126,650,240,44.5,Pré-Pago
+CUST0056,Luís Baptista,28,male,988406989,luis.baptista@gmail.com,Leiria,224,958,170,111.13,Empresarial
+CUST0057,Henrique Oliveira,24,male,931130263,henrique.oliveira@gmail.com,Lisboa,287,723,170,18.81,Pré-Pago
+CUST0058,Ivo Faria,18,male,919196777,ivo.faria@gmail.com,Porto,254,713,220,104.8,Pós-Pago
+CUST0059,Marta Maia,28,female,926090908,marta.maia@gmail.com,Coimbra,151,605,190,75.4,Empresarial
+CUST0060,Amélia Amélia Fernandes,33,female,921003626,amelia.amelia.fernandes@gmail.com,Setúbal,202,452,220,74.2,Empresarial
+CUST0061,Marcos da Morais,30,male,952462441,marcos.da.morais@gmail.com,Faro,508,371,70,83.67,Pós-Pago
+CUST0062,Benedita Vieira Cardoso,38,female,942035886,benedita.vieira.cardoso@gmail.com,Faro,252,192,130,24.4,Empresarial
+CUST0063,Sofia Macedo,40,female,950264926,sofia.macedo@gmail.com,Leiria,567,196,110,112.19,Pré-Pago
+CUST0064,Matilde Silva,29,male,911250299,matilde.silva@gmail.com,Leiria,179,781,200,119.83,Pré-Pago
+CUST0065,Naiara Costa,19,female,919832887,naiara.costa@gmail.com,Coimbra,272,984,170,39.17,Pós-Pago
+CUST0066,Xavier da Borges,31,male,919233013,xavier.da.borges@gmail.com,Coimbra,275,160,120,41.35,Pós-Pago
+CUST0067,Nuno Alves Ribeiro,28,male,982909480,nuno.alves.ribeiro@gmail.com,Faro,55,614,200,118.22,Empresarial
+CUST0068,Ivo Vaz,29,male,980993218,ivo.vaz@gmail.com,Lisboa,147,317,220,99.88,Pós-Pago
+CUST0069,Matias Gonçalves,69,male,999038526,matias.goncalves@gmail.com,Porto,825,160,50,39.09,Pré-Pago
+CUST0070,Frederico Faria,52,male,984252420,frederico.faria@gmail.com,Braga,295,178,90,40.99,Pré-Pago
+CUST0071,Paulo Simões,28,male,956020613,paulo.simoes@gmail.com,Coimbra,258,331,220,79.77,Pós-Pago
+CUST0072,Teresa Soares,50,female,977834855,teresa.soares@gmail.com,Leiria,536,109,90,109.59,Pré-Pago
+CUST0073,Salomé Reis,46,male,922388090,salome.reis@gmail.com,Setúbal,448,357,90,14.85,Pós-Pago
+CUST0074,Kyara Vieira,44,female,927558317,kyara.vieira@gmail.com,Faro,519,289,60,91.54,Empresarial
+CUST0075,Teresa Almeida Anjos,73,female,967403166,teresa.almeida.anjos@gmail.com,Lisboa,660,189,40,18.28,Empresarial
+CUST0076,Vasco Castro,53,male,930005727,vasco.castro@gmail.com,Lisboa,282,201,120,74.08,Pré-Pago
+CUST0077,Gil Simões,74,male,967684996,gil.simoes@gmail.com,Braga,871,54,20,43.91,Pré-Pago
+CUST0078,Dinis Loureiro,31,male,958024342,dinis.loureiro@gmail.com,Coimbra,243,383,220,37.45,Pré-Pago
+CUST0079,José Sousa,35,male,957469942,jose.sousa@gmail.com,Setúbal,276,692,200,92.44,Pré-Pago
+CUST0080,Márcio de Pinheiro,45,male,931810617,marcio.de.pinheiro@gmail.com,Braga,525,132,140,12.73,Empresarial
+CUST0081,Miguel Machado,35,male,954585178,miguel.machado@gmail.com,Setúbal,110,792,220,105.05,Pré-Pago
+CUST0082,Rúben Pinho,21,male,945810056,ruben.pinho@gmail.com,Braga,264,974,230,21.89,Pré-Pago
+CUST0083,Mateus Garcia,36,male,973174945,mateus.garcia@gmail.com,Coimbra,598,352,70,99.82,Pós-Pago
+CUST0084,Vasco Vaz,36,male,956930359,vasco.vaz@gmail.com,Faro,463,246,80,34.52,Empresarial
+CUST0085,Gaspar Soares,33,male,935921441,gaspar.soares@gmail.com,Setúbal,515,156,110,40.65,Pré-Pago
+CUST0086,Érica Castro,22,female,947463522,erica.castro@gmail.com,Aveiro,254,976,210,66.03,Empresarial
+CUST0087,Marco Moreira,65,male,981969657,marco.moreira@gmail.com,Aveiro,622,149,10,22.69,Pós-Pago
+CUST0088,Diogo Pinheiro,72,male,933966966,diogo.pinheiro@gmail.com,Faro,971,53,20,21.92,Pós-Pago
+CUST0089,Letícia Cunha,48,female,956397338,leticia.cunha@gmail.com,Aveiro,550,315,140,76.68,Empresarial
+CUST0090,Jorge Sousa,25,male,925521714,jorge.sousa@gmail.com,Setúbal,292,464,190,30.91,Pré-Pago
+CUST0091,Nádia Barbosa,18,female,968526649,nadia.barbosa@gmail.com,Lisboa,203,367,170,111.81,Empresarial
+CUST0092,Violeta Azevedo,34,female,936445607,violeta.azevedo@gmail.com,Aveiro,523,127,140,17.7,Empresarial
+CUST0093,Constança Machado,22,female,954318698,constanca.machado@gmail.com,Aveiro,186,725,220,103.28,Empresarial
+CUST0094,Maria Ferreira,26,female,950308572,maria.ferreira@gmail.com,Faro,201,727,220,54.92,Pós-Pago
+CUST0095,Fernando Pinho,53,male,949682169,fernando.pinho@gmail.com,Braga,401,233,70,56.25,Pós-Pago
+CUST0096,Frederico Pinheiro,41,male,933357554,frederico.pinheiro@gmail.com,Faro,220,327,130,70.27,Pré-Pago
+CUST0097,Ana Esteves,49,female,950785405,ana.esteves@gmail.com,Faro,510,209,70,57.29,Empresarial
+CUST0098,Alice Valente,39,male,991424737,alice.valente@gmail.com,Aveiro,394,288,150,58.6,Empresarial
+CUST0099,Naiara Martins,30,female,938682516,naiara.martins@gmail.com,Leiria,148,721,240,28.67,Pré-Pago
+CUST0100,Marco Castro,52,male,948089166,marco.castro@gmail.com,Aveiro,687,173,30,100.03,Pré-Pago
+CUST0101,Luca Abreu,55,female,951663795,luca.abreu@gmail.com,Coimbra,565,177,70,26.21,Pré-Pago
+CUST0102,Sara Campos,31,female,942862209,sara.campos@gmail.com,Leiria,237,451,200,103.47,Pré-Pago
+CUST0103,Bárbara Pinheiro,31,female,971124923,barbara.pinheiro@gmail.com,Setúbal,257,799,210,73.32,Empresarial
+CUST0104,Vasco Pinho,31,male,961536717,vasco.pinho@gmail.com,Leiria,433,155,130,36.84,Empresarial
+CUST0105,Francisca Neto,20,female,910744212,francisca.neto@gmail.com,Porto,86,371,250,56.77,Pré-Pago
+CUST0106,Rita Teixeira Loureiro,65,female,979519112,rita.teixeira.loureiro@gmail.com,Leiria,751,59,20,71.31,Pré-Pago
+CUST0107,Mia Lourenço,49,female,971265269,mia.lourenco@gmail.com,Braga,509,314,150,83.43,Empresarial
+CUST0108,Ariana Ramos,34,female,989920257,ariana.ramos@gmail.com,Aveiro,193,883,250,108.06,Empresarial
+CUST0109,Sérgio Costa,27,male,977750178,sergio.costa@gmail.com,Setúbal,235,555,180,59.05,Pré-Pago
+CUST0110,Mara Abreu,55,female,973709724,mara.abreu@gmail.com,Leiria,429,181,90,92.7,Empresarial
+CUST0111,Vera Cunha,20,female,947220099,vera.cunha@gmail.com,Leiria,116,405,210,36.32,Pós-Pago
+CUST0112,Margarida Gomes Cruz,50,female,920399639,margarida.gomes.cruz@gmail.com,Faro,434,246,80,39.89,Pós-Pago
+CUST0113,Mauro Figueiredo,62,male,982498004,mauro.figueiredo@gmail.com,Porto,922,117,50,26.59,Pós-Pago
+CUST0114,Joel Garcia Batista,69,male,930509175,joel.garcia.batista@gmail.com,Coimbra,974,57,30,55.64,Pós-Pago
+CUST0115,Irina Brito,31,female,982828034,irina.brito@gmail.com,Leiria,474,105,140,16.85,Pós-Pago
+CUST0116,Sara Lima Valente,30,female,962274692,sara.lima.valente@gmail.com,Lisboa,296,421,250,73.33,Pós-Pago
+CUST0117,Ricardo Pereira Tavares,48,male,910791358,ricardo.pereira.tavares@gmail.com,Aveiro,533,133,100,92.88,Pós-Pago
+CUST0118,Raquel Miranda,30,male,982238741,raquel.miranda@gmail.com,Coimbra,84,709,160,34.14,Pós-Pago
+CUST0119,Emma Torres,49,female,975181765,emma.torres@gmail.com,Lisboa,264,100,130,46.97,Empresarial
+CUST0120,Constança Correia,34,female,964266464,constanca.correia@gmail.com,Braga,262,146,150,111.15,Empresarial
+CUST0121,Bernardo de Amorim,36,male,981688860,bernardo.de.amorim@gmail.com,Lisboa,538,346,130,75.11,Empresarial
+CUST0122,Manuel Vaz,23,male,913637575,manuel.vaz@gmail.com,Porto,215,619,210,57.15,Pós-Pago
+CUST0123,Catarina de Antunes,31,female,934391257,catarina.de.antunes@gmail.com,Lisboa,480,268,90,51.7,Pré-Pago
+CUST0124,Valentina Lima,54,female,971028710,valentina.lima@gmail.com,Aveiro,220,319,110,93.74,Pós-Pago
+CUST0125,Raquel Pereira,50,male,947346970,raquel.pereira@gmail.com,Setúbal,536,212,90,101.84,Pós-Pago
+CUST0126,Miguel Nascimento,45,male,912601580,miguel.nascimento@gmail.com,Lisboa,471,195,120,34.66,Pré-Pago
+CUST0127,Laura Cardoso,21,female,997477029,laura.cardoso@gmail.com,Lisboa,128,966,250,13.41,Pré-Pago
+CUST0128,Érica Guerreiro,32,female,936757737,erica.guerreiro@gmail.com,Lisboa,126,557,200,26.76,Pré-Pago
+CUST0129,Rita Carvalho,33,female,973560289,rita.carvalho@gmail.com,Porto,246,326,190,114.25,Pós-Pago
+CUST0130,Yasmin Soares,37,male,944392446,yasmin.soares@gmail.com,Aveiro,327,273,60,76.65,Empresarial
+CUST0131,Kyara Pereira,32,female,925372341,kyara.pereira@gmail.com,Braga,321,376,100,21.89,Pré-Pago
+CUST0132,Fábio Rodrigues,37,male,951870192,fabio.rodrigues@gmail.com,Setúbal,472,334,130,113.56,Pré-Pago
+CUST0133,Marco Silva,62,male,920200074,marco.silva@gmail.com,Coimbra,652,173,40,86.69,Pós-Pago
+CUST0134,Caetana Torres,32,female,990585882,caetana.torres@gmail.com,Porto,203,679,190,96.09,Pós-Pago
+CUST0135,Diogo Cunha,28,male,981503856,diogo.cunha@gmail.com,Setúbal,78,734,220,50.76,Empresarial
+CUST0136,Melissa Patrícia Machado,68,female,996911784,melissa.patricia.machado@gmail.com,Aveiro,991,112,10,103.45,Pós-Pago
+CUST0137,Vasco Anjos,36,male,924165187,vasco.anjos@gmail.com,Setúbal,253,108,120,79.91,Pós-Pago
+CUST0138,Mélanie Soares,53,male,930534124,melanie.soares@gmail.com,Setúbal,539,115,60,90.72,Empresarial
+CUST0139,Igor da Nunes,44,male,946249845,igor.da.nunes@gmail.com,Leiria,407,347,150,57.91,Empresarial
+CUST0140,Carlota Costa,32,female,989520597,carlota.costa@gmail.com,Faro,566,128,110,103.69,Pré-Pago
+CUST0141,Noa Castro,39,female,947437115,noa.castro@gmail.com,Leiria,233,304,80,92.55,Empresarial
+CUST0142,Gaspar Miranda,39,male,991917334,gaspar.miranda@gmail.com,Setúbal,535,263,110,13.16,Pós-Pago
+CUST0143,Camila Oliveira,44,female,934406132,camila.oliveira@gmail.com,Leiria,539,316,70,49.03,Pós-Pago
+CUST0144,Emanuel do Campos,18,male,955679506,emanuel.do.campos@gmail.com,Faro,198,579,200,87.13,Pós-Pago
+CUST0145,Nuno Nogueira Teixeira,20,male,984597009,nuno.nogueira.teixeira@gmail.com,Lisboa,123,861,170,114.29,Pré-Pago
+CUST0146,Sofia Cunha,18,female,942394260,sofia.cunha@gmail.com,Setúbal,228,711,160,71.07,Pré-Pago
+CUST0147,Eva Machado,43,female,973900135,eva.machado@gmail.com,Leiria,387,138,150,97.22,Pré-Pago
+CUST0148,Caetana Neves,51,female,949491631,caetana.neves@gmail.com,Coimbra,209,399,130,86.1,Pós-Pago
+CUST0149,Leonor Machado,35,male,999115205,leonor.machado@gmail.com,Aveiro,231,682,160,70.88,Pós-Pago
+CUST0150,Victória Pinto,51,female,967110154,victoria.pinto@gmail.com,Aveiro,219,376,120,87.31,Pós-Pago
+CUST0151,António da Vicente,47,male,951154241,antonio.da.vicente@gmail.com,Faro,593,396,80,23.27,Pré-Pago
+CUST0152,Petra Guerreiro,31,female,952352128,petra.guerreiro@gmail.com,Porto,104,302,240,68.95,Empresarial
+CUST0153,Larissa Torres,38,female,934850391,larissa.torres@gmail.com,Coimbra,393,306,70,91.25,Pós-Pago
+CUST0154,Sara Coelho,65,female,989133014,sara.coelho@gmail.com,Faro,799,188,40,101.59,Pós-Pago
+CUST0155,Rafaela Matos,52,female,940532273,rafaela.matos@gmail.com,Aveiro,330,368,60,43.25,Empresarial
+CUST0156,Letícia Carneiro,46,female,981690398,leticia.carneiro@gmail.com,Braga,236,251,90,15.01,Pré-Pago
+CUST0157,Débora Moreira,24,female,984270583,debora.moreira@gmail.com,Faro,156,908,230,113.85,Empresarial
+CUST0158,Gaspar Pinho,72,male,975884623,gaspar.pinho@gmail.com,Porto,774,123,10,73.15,Pós-Pago
+CUST0159,Jaime Andrade,51,male,974251933,jaime.andrade@gmail.com,Leiria,600,336,110,30.28,Pré-Pago
+CUST0160,Marco Abreu,64,male,943887075,marco.abreu@gmail.com,Leiria,735,184,40,100.43,Pós-Pago
+CUST0161,Beatriz Pinto,20,male,976001106,beatriz.pinto@gmail.com,Porto,297,985,190,79.24,Pré-Pago
+CUST0162,Gonçalo Garcia,31,male,930364454,goncalo.garcia@gmail.com,Braga,51,813,190,114.4,Pré-Pago
+CUST0163,Gaspar Leite,34,male,943311626,gaspar.leite@gmail.com,Porto,244,861,180,94.09,Empresarial
+CUST0164,Gabriela Carvalho,34,female,990010790,gabriela.carvalho@gmail.com,Coimbra,100,302,250,67.48,Pós-Pago
+CUST0165,Alícia de Carneiro,20,female,969421007,alicia.de.carneiro@gmail.com,Faro,121,516,190,118.9,Pós-Pago
+CUST0166,Erica Lima,23,female,986320155,erica.lima@gmail.com,Lisboa,190,390,200,115.61,Pré-Pago
+CUST0167,Daniel Loureiro,48,male,937888820,daniel.loureiro@gmail.com,Coimbra,236,295,90,82.65,Pré-Pago
+CUST0168,Vítor Simões Amorim,20,male,942194159,vitor.simoes.amorim@gmail.com,Braga,135,338,180,18.26,Pré-Pago
+CUST0169,Álvaro Rocha Vieira,35,male,964830300,alvaro.rocha.vieira@gmail.com,Leiria,246,571,230,75.32,Pós-Pago
+CUST0170,Luana Nunes,36,female,914380847,luana.nunes@gmail.com,Coimbra,243,234,100,87.77,Empresarial
+CUST0171,Ângelo Vicente,26,male,970939053,angelo.vicente@gmail.com,Porto,172,788,220,35.68,Pós-Pago
+CUST0172,Francisco Abreu,48,male,993893865,francisco.abreu@gmail.com,Coimbra,456,381,140,22.63,Pré-Pago
+CUST0173,Cristiano Alves,36,male,996924061,cristiano.alves@gmail.com,Braga,514,150,90,100.93,Pré-Pago
+CUST0174,Adriana Leite,37,female,918004482,adriana.leite@gmail.com,Braga,408,160,100,75.45,Empresarial
+CUST0175,Ângela Violeta Loureiro,58,female,948736657,angela.violeta.loureiro@gmail.com,Leiria,765,133,40,61.56,Pós-Pago
+CUST0176,Amélia Azevedo,21,female,964023778,amelia.azevedo@gmail.com,Faro,121,541,170,69.4,Pós-Pago
+CUST0177,António Pereira,37,male,920796722,antonio.pereira@gmail.com,Lisboa,400,364,140,90.8,Empresarial
+CUST0178,Simão Fonseca,74,male,943603811,simao.fonseca@gmail.com,Lisboa,818,149,30,35.18,Empresarial
+CUST0179,Vera Assunção,33,female,987201917,vera.assuncao@gmail.com,Lisboa,175,343,250,83.95,Pós-Pago
+CUST0180,Rúben Nogueira Vicente,20,male,987342561,ruben.nogueira.vicente@gmail.com,Lisboa,100,755,250,93.19,Pós-Pago
+CUST0181,Guilherme Amorim Reis,47,male,979654147,guilherme.amorim.reis@gmail.com,Leiria,428,347,90,29.96,Empresarial
+CUST0182,Ivo Batista,57,male,968503492,ivo.batista@gmail.com,Leiria,934,172,30,61.7,Pós-Pago
+CUST0183,Paulo Mendes,30,male,954735895,paulo.mendes@gmail.com,Aveiro,101,979,220,21.51,Pré-Pago
+CUST0184,Isabel Vieira,22,male,954265498,isabel.vieira@gmail.com,Setúbal,155,852,230,64.5,Empresarial
+CUST0185,Violeta Fonseca,40,female,963747791,violeta.fonseca@gmail.com,Lisboa,594,389,150,19.69,Pós-Pago
+CUST0186,Teresa Monteiro,25,female,953389073,teresa.monteiro@gmail.com,Porto,165,396,250,54.46,Empresarial
+CUST0187,Ema Rocha,35,female,910154493,ema.rocha@gmail.com,Leiria,201,254,140,15.96,Empresarial
+CUST0188,Érica Domingues Cardoso,25,female,958557203,erica.domingues.cardoso@gmail.com,Leiria,140,632,210,58.62,Pré-Pago
+CUST0189,Mariana Martins,34,female,937321124,mariana.martins@gmail.com,Faro,87,652,180,24.41,Pós-Pago
+CUST0190,Margarida Amaral Mota,52,female,968802946,margarida.amaral.mota@gmail.com,Leiria,647,172,40,13.18,Empresarial
+CUST0191,Benedita do Morais,22,female,991721371,benedita.do.morais@gmail.com,Coimbra,126,507,230,27.42,Empresarial
+CUST0192,Erica Silva,55,female,911835355,erica.silva@gmail.com,Setúbal,891,138,30,34.72,Pré-Pago
+CUST0193,Isaac Cunha,18,male,971934487,isaac.cunha@gmail.com,Porto,175,342,210,101.54,Pós-Pago
+CUST0194,Érica Monteiro,49,female,949172995,erica.monteiro@gmail.com,Faro,304,386,140,101.82,Pós-Pago
+CUST0195,Patrícia Costa Leal,26,female,942713008,patricia.costa.leal@gmail.com,Leiria,202,902,180,25.91,Pré-Pago
+CUST0196,Salvador Paiva,74,male,990447099,salvador.paiva@gmail.com,Braga,542,64,30,40.39,Pós-Pago
+CUST0197,Pilar de Henriques,54,male,955617282,pilar.de.henriques@gmail.com,Faro,972,200,10,41.11,Pós-Pago
+CUST0198,Bruno Lopes Amaral,71,male,988777447,bruno.lopes.amaral@gmail.com,Leiria,696,198,50,59.12,Pós-Pago
+CUST0199,Micael Pinto,30,male,956321751,micael.pinto@gmail.com,Aveiro,282,931,180,93.92,Pós-Pago
+CUST0200,Mauro Neto,42,male,971115319,mauro.neto@gmail.com,Aveiro,542,251,70,117.89,Pré-Pago
+CUST0201,Constança Martins,31,female,986745380,constanca.martins@gmail.com,Setúbal,332,127,80,104.16,Pós-Pago
+CUST0202,Tomás Tavares,34,male,915858241,tomas.tavares@gmail.com,Aveiro,96,716,240,62.03,Pós-Pago
+CUST0203,Luana Ferreira,31,female,961818612,luana.ferreira@gmail.com,Braga,114,874,160,116.13,Pré-Pago
+CUST0204,Salvador Batista,74,male,977416376,salvador.batista@gmail.com,Aveiro,650,149,40,106.16,Pós-Pago
+CUST0205,Vera Freitas,72,female,923383077,vera.freitas@gmail.com,Leiria,764,168,10,89.47,Pós-Pago
+CUST0206,Ricardo Amaral,64,male,997883261,ricardo.amaral@gmail.com,Braga,814,103,30,61.64,Pós-Pago
+CUST0207,Constança Renata Barros,21,female,955440919,constanca.renata.barros@gmail.com,Setúbal,175,767,210,18.83,Pós-Pago
+CUST0208,Dinis da Gomes,37,male,981621574,dinis.da.gomes@gmail.com,Setúbal,556,303,110,78.95,Pós-Pago
+CUST0209,André Simões,31,male,982613940,andre.simoes@gmail.com,Lisboa,139,561,200,17.53,Empresarial
+CUST0210,Duarte Abreu,35,male,948571356,duarte.abreu@gmail.com,Coimbra,144,371,240,19.94,Pré-Pago
+CUST0211,Francisco Araújo,41,male,995060193,francisco.araujo@gmail.com,Porto,437,362,150,28.3,Pós-Pago
+CUST0212,Tomás Marques,37,male,913885234,tomas.marques@gmail.com,Lisboa,585,244,110,97.58,Pós-Pago
+CUST0213,Renato Tavares Amorim,54,male,958112135,renato.tavares.amorim@gmail.com,Aveiro,600,326,140,26.01,Empresarial
+CUST0214,Alexandre Maia,53,male,965304649,alexandre.maia@gmail.com,Braga,300,262,60,29.26,Empresarial
+CUST0215,José Branco,28,male,961344226,jose.branco@gmail.com,Coimbra,296,323,160,110.41,Pré-Pago
+CUST0216,Cláudio Figueiredo,30,male,941163805,claudio.figueiredo@gmail.com,Leiria,214,458,210,37.94,Pós-Pago
+CUST0217,Sérgio Nogueira Barros,33,male,999501846,sergio.nogueira.barros@gmail.com,Lisboa,381,240,150,109.13,Empresarial
+CUST0218,Mário Vicente,74,male,983363160,mario.vicente@gmail.com,Braga,615,187,30,58.59,Pós-Pago
+CUST0219,Benjamim Teixeira,21,male,988862539,benjamim.teixeira@gmail.com,Faro,79,623,210,115.82,Empresarial
+CUST0220,Benedita Ramos,50,female,943567615,benedita.ramos@gmail.com,Leiria,597,237,100,31.91,Pós-Pago
+CUST0221,Rui Brito,39,male,974855088,rui.brito@gmail.com,Porto,356,120,80,51.95,Pós-Pago
+CUST0222,Nelson Gomes,21,male,987149951,nelson.gomes@gmail.com,Faro,300,641,230,42.48,Empresarial
+CUST0223,Amélia Castro,74,female,963124147,amelia.castro@gmail.com,Faro,645,171,10,72.25,Empresarial
+CUST0224,Frederico Carvalho Batista,42,male,916582607,frederico.carvalho.batista@gmail.com,Leiria,311,250,100,95.33,Pré-Pago
+CUST0225,Dinis Cruz,32,male,991478884,dinis.cruz@gmail.com,Aveiro,520,227,80,80.03,Empresarial
+CUST0226,Sebastião Anjos,25,male,943638559,sebastiao.anjos@gmail.com,Braga,153,650,210,20.69,Empresarial
+CUST0227,Gabriela Barbosa,30,female,996750368,gabriela.barbosa@gmail.com,Lisboa,589,370,100,96.75,Pré-Pago
+CUST0228,Vera Margarida Garcia,18,female,987789079,vera.margarida.garcia@gmail.com,Aveiro,250,994,240,24.46,Pós-Pago
+CUST0229,Anita Nascimento,34,female,953851498,anita.nascimento@gmail.com,Setúbal,202,318,60,32.09,Empresarial
+CUST0230,Lia Mendes Sousa,48,female,959104566,lia.mendes.sousa@gmail.com,Faro,577,151,60,38.27,Pós-Pago
+CUST0231,Fernando Abreu,70,male,949613214,fernando.abreu@gmail.com,Aveiro,671,132,40,61.52,Pré-Pago
+CUST0232,Cláudio Pinho Pereira,32,male,928892086,claudio.pinho.pereira@gmail.com,Coimbra,203,804,220,89.66,Pós-Pago
+CUST0233,Pilar Reis,62,male,984801233,pilar.reis@gmail.com,Aveiro,604,105,30,96.98,Pré-Pago
+CUST0234,Ivan Machado,31,male,945495029,ivan.machado@gmail.com,Porto,486,126,150,50.54,Empresarial
+CUST0235,Carlos Domingues,33,male,945186708,carlos.domingues@gmail.com,Setúbal,256,331,210,113.43,Pré-Pago
+CUST0236,Edgar Cruz,61,male,941383044,edgar.cruz@gmail.com,Leiria,863,140,10,78.15,Empresarial
+CUST0237,Pilar Morais,22,male,954024257,pilar.morais@gmail.com,Coimbra,66,547,210,16.95,Pós-Pago
+CUST0238,Vitória Alves Andrade,73,female,950559278,vitoria.alves.andrade@gmail.com,Setúbal,922,126,40,25.38,Pré-Pago
+CUST0239,Sebastião Oliveira,56,male,950851122,sebastiao.oliveira@gmail.com,Leiria,879,93,40,20.69,Empresarial
+CUST0240,Ângelo de Miranda,39,male,928208520,angelo.de.miranda@gmail.com,Setúbal,484,378,150,50.81,Empresarial
+CUST0241,Nádia Ana Simões,19,female,982503409,nadia.ana.simoes@gmail.com,Setúbal,144,393,190,91.65,Pré-Pago
+CUST0242,Letícia Azevedo,21,female,965684858,leticia.azevedo@gmail.com,Porto,86,596,160,77.72,Pós-Pago
+CUST0243,Nuno Coelho,55,male,914391105,nuno.coelho@gmail.com,Aveiro,505,286,70,58.77,Pré-Pago
+CUST0244,Samuel Cunha,26,male,958678896,samuel.cunha@gmail.com,Porto,79,879,220,50.41,Empresarial
+CUST0245,Nair da Moura,40,male,958140388,nair.da.moura@gmail.com,Lisboa,324,203,130,40.35,Pré-Pago
+CUST0246,Gabriel Vaz,32,male,971031132,gabriel.vaz@gmail.com,Porto,194,741,220,33.33,Empresarial
+CUST0247,Mélanie Correia,57,male,990147573,melanie.correia@gmail.com,Lisboa,718,86,20,96.55,Pré-Pago
+CUST0248,Letícia Soares,56,female,926901217,leticia.soares@gmail.com,Coimbra,840,182,30,101.28,Empresarial
+CUST0249,Bruno Branco Reis,30,male,937804191,bruno.branco.reis@gmail.com,Coimbra,410,333,80,46.14,Pré-Pago
+CUST0250,Joana Andrade,46,female,989991301,joana.andrade@gmail.com,Lisboa,348,361,90,104.42,Pré-Pago
+CUST0251,João Campos Moura,51,male,927447248,joao.campos.moura@gmail.com,Faro,516,347,60,22.09,Pré-Pago
+CUST0252,Nicole da Batista,38,male,927690330,nicole.da.batista@gmail.com,Lisboa,427,346,120,96.9,Pré-Pago
+CUST0253,Tiago Marques,53,male,989034501,tiago.marques@gmail.com,Aveiro,662,107,10,29.17,Pré-Pago
+CUST0254,Ângelo Coelho,31,male,927013243,angelo.coelho@gmail.com,Setúbal,142,382,170,22.5,Pré-Pago
+CUST0255,Caetana Ramos,21,female,973920651,caetana.ramos@gmail.com,Leiria,152,641,250,49.82,Empresarial
+CUST0256,Rúben Pereira,28,male,924636981,ruben.pereira@gmail.com,Leiria,228,860,170,34.37,Empresarial
+CUST0257,Joel Simões,44,male,915820356,joel.simoes@gmail.com,Faro,466,321,150,80.77,Pré-Pago
+CUST0258,Camila Nascimento,44,female,918163847,camila.nascimento@gmail.com,Leiria,494,159,130,56.89,Pré-Pago
+CUST0259,Ângela Soares,61,female,975802771,angela.soares@gmail.com,Leiria,630,173,30,108.92,Pós-Pago
+CUST0260,Micael Soares,72,male,991644298,micael.soares@gmail.com,Braga,857,136,30,23.88,Empresarial
+CUST0261,Rita Guerreiro Maia,48,female,994970119,rita.guerreiro.maia@gmail.com,Aveiro,536,276,130,119.41,Empresarial
+CUST0262,Rodrigo Vaz,20,male,949580505,rodrigo.vaz@gmail.com,Leiria,185,534,170,76.6,Pré-Pago
+CUST0263,Filipa Kelly Carvalho,55,female,925356396,filipa.kelly.carvalho@gmail.com,Coimbra,459,202,140,59.67,Pré-Pago
+CUST0264,Mateus Nascimento,53,male,965541117,mateus.nascimento@gmail.com,Aveiro,351,211,150,53.86,Empresarial
+CUST0265,João Fernandes,46,male,922762205,joao.fernandes@gmail.com,Aveiro,301,148,140,44.38,Pós-Pago
+CUST0266,Eduarda Campos,25,female,960237832,eduarda.campos@gmail.com,Braga,289,842,220,111.53,Pré-Pago
+CUST0267,Francisco Rodrigues,67,male,922243983,francisco.rodrigues@gmail.com,Porto,528,141,30,57.51,Empresarial
+CUST0268,Leandro Rodrigues,30,male,960015814,leandro.rodrigues@gmail.com,Braga,180,309,180,16.6,Empresarial
+CUST0269,Violeta Neves Campos,26,female,985387867,violeta.neves.campos@gmail.com,Aveiro,105,357,220,23.45,Pós-Pago
+CUST0270,Tomé Neves,33,male,999300492,tome.neves@gmail.com,Setúbal,93,850,240,15.66,Pós-Pago
+CUST0271,Emma Rocha,43,female,990585678,emma.rocha@gmail.com,Faro,417,358,120,21.4,Empresarial
+CUST0272,Gustavo Leal,23,male,938553319,gustavo.leal@gmail.com,Braga,299,621,220,63.04,Pré-Pago
+CUST0273,Daniela Anjos,59,female,956991504,daniela.anjos@gmail.com,Aveiro,860,59,40,93.89,Empresarial
+CUST0274,Yara Gaspar,28,female,940354559,yara.gaspar@gmail.com,Setúbal,161,975,180,117.2,Empresarial
+CUST0275,Yasmin Simões,29,male,992352411,yasmin.simoes@gmail.com,Lisboa,299,756,200,112.2,Empresarial
+CUST0276,Vicente Cunha,50,male,945896226,vicente.cunha@gmail.com,Lisboa,554,373,60,40.06,Pós-Pago
+CUST0277,Renato Branco,75,male,955610493,renato.branco@gmail.com,Aveiro,662,146,10,29.95,Pré-Pago
+CUST0278,Diana Henriques,59,female,986010330,diana.henriques@gmail.com,Setúbal,574,141,30,25.61,Empresarial
+CUST0279,Nádia Costa,28,female,914114726,nadia.costa@gmail.com,Porto,51,990,240,68.35,Pós-Pago
+CUST0280,Ivan Barros,51,male,966348963,ivan.barros@gmail.com,Leiria,306,219,110,27.32,Pós-Pago
+CUST0281,Rafael Freitas,71,male,953537934,rafael.freitas@gmail.com,Porto,598,131,20,27.11,Empresarial
+CUST0282,Edgar Gonçalves,49,male,916679008,edgar.goncalves@gmail.com,Porto,538,158,90,58.74,Pós-Pago
+CUST0283,Vicente do Henriques,41,male,975184410,vicente.do.henriques@gmail.com,Leiria,246,354,140,40.05,Empresarial
+CUST0284,Matias Soares,33,male,925276327,matias.soares@gmail.com,Aveiro,381,236,140,22.2,Empresarial
+CUST0285,Emanuel Pinho,28,male,989609131,emanuel.pinho@gmail.com,Leiria,109,455,170,83.38,Pré-Pago
+CUST0286,Luana Macedo,30,female,939597483,luana.macedo@gmail.com,Setúbal,116,947,200,16.03,Pré-Pago
+CUST0287,Sérgio Martins,20,male,950455821,sergio.martins@gmail.com,Coimbra,128,310,250,25.1,Pós-Pago
+CUST0288,Rui Domingues,51,male,948848936,rui.domingues@gmail.com,Aveiro,833,130,40,10.85,Empresarial
+CUST0289,Adriana Tavares,50,female,967801537,adriana.tavares@gmail.com,Braga,911,113,50,51.82,Empresarial
+CUST0290,Gil Lima,61,male,940884937,gil.lima@gmail.com,Aveiro,862,193,30,53.68,Empresarial
+CUST0291,Fabiana da Soares,69,female,915677713,fabiana.da.soares@gmail.com,Setúbal,996,85,10,60.57,Pré-Pago
+CUST0292,Santiago Matos,25,male,952018286,santiago.matos@gmail.com,Setúbal,86,616,190,54.49,Empresarial
+CUST0293,Álvaro de Tavares,62,male,966061934,alvaro.de.tavares@gmail.com,Faro,812,115,40,54.55,Pós-Pago
+CUST0294,Erika Pereira,31,female,933068427,erika.pereira@gmail.com,Leiria,74,448,230,111.17,Pré-Pago
+CUST0295,Catarina Teixeira,37,female,968614462,catarina.teixeira@gmail.com,Porto,311,128,80,57.92,Pós-Pago
+CUST0296,Teresa Assunção,54,female,980325062,teresa.assuncao@gmail.com,Porto,350,172,130,105.76,Empresarial
+CUST0297,Melissa Antunes,33,female,955568701,melissa.antunes@gmail.com,Coimbra,387,201,110,95.7,Pré-Pago
+CUST0298,Teresa Andrade,26,female,978515906,teresa.andrade@gmail.com,Porto,276,802,170,66.09,Pós-Pago
+CUST0299,Beatriz Moreira,40,male,957123808,beatriz.moreira@gmail.com,Braga,208,241,80,21.31,Pós-Pago
+CUST0300,Alexandre Torres,29,male,936477373,alexandre.torres@gmail.com,Braga,132,785,200,26.82,Empresarial
+CUST0301,Alícia Castro Matias,25,female,920113745,alicia.castro.matias@gmail.com,Braga,241,625,250,79.07,Pós-Pago
+CUST0302,Ricardo do Amaral,19,male,985663295,ricardo.do.amaral@gmail.com,Leiria,81,382,220,111.66,Empresarial
+CUST0303,Beatriz da Martins,24,male,996300902,beatriz.da.martins@gmail.com,Aveiro,270,671,210,44.78,Pós-Pago
+CUST0304,Eduardo Garcia,52,male,919165226,eduardo.garcia@gmail.com,Leiria,267,357,150,79.45,Pós-Pago
+CUST0305,Emma Rocha,39,female,989379016,emma.rocha@gmail.com,Lisboa,504,339,120,65.81,Pós-Pago
+CUST0306,Carolina Lourenço,55,female,971974027,carolina.lourenco@gmail.com,Leiria,766,168,20,16.26,Pós-Pago
+CUST0307,Bryan Loureiro,26,male,920298660,bryan.loureiro@gmail.com,Porto,157,508,200,75.35,Pós-Pago
+CUST0308,Ângela Neves,47,female,972104107,angela.neves@gmail.com,Lisboa,436,316,150,110.0,Empresarial
+CUST0309,Jorge Assunção Castro,52,male,997488142,jorge.assuncao.castro@gmail.com,Coimbra,539,258,110,76.55,Empresarial
+CUST0310,Brian Rocha Almeida,38,male,930248230,brian.rocha.almeida@gmail.com,Lisboa,453,323,150,21.39,Pós-Pago
+CUST0311,William Pinheiro,51,male,921318464,william.pinheiro@gmail.com,Braga,770,54,20,37.25,Pós-Pago
+CUST0312,Joana Batista,34,female,968978194,joana.batista@gmail.com,Braga,479,141,120,51.01,Pós-Pago
+CUST0313,Gustavo Abreu,18,male,961998170,gustavo.abreu@gmail.com,Setúbal,184,401,250,47.22,Empresarial
+CUST0314,Jaime do Melo,55,male,917028380,jaime.do.melo@gmail.com,Aveiro,571,112,30,46.27,Empresarial
+CUST0315,Leonardo Araújo,45,male,961883769,leonardo.araujo@gmail.com,Faro,378,200,90,89.61,Empresarial
+CUST0316,Lúcia Sá,44,female,990893133,lucia.sa@gmail.com,Braga,357,284,110,18.97,Empresarial
+CUST0317,Cláudio Guerreiro,51,male,928982195,claudio.guerreiro@gmail.com,Aveiro,496,388,100,116.45,Empresarial
+CUST0318,Sérgio Anjos,63,male,998870276,sergio.anjos@gmail.com,Setúbal,532,82,50,75.45,Pré-Pago
+CUST0319,Rita Gabriela Guerreiro,25,female,951551377,rita.gabriela.guerreiro@gmail.com,Setúbal,191,373,210,97.08,Pré-Pago
+CUST0320,Beatriz Mota,25,male,999941500,beatriz.mota@gmail.com,Porto,128,310,210,83.75,Empresarial
+CUST0321,Raquel Maia,44,male,958563745,raquel.maia@gmail.com,Lisboa,306,101,120,43.98,Pré-Pago
+CUST0322,Gonçalo Sá Machado,51,male,955866538,goncalo.sa.machado@gmail.com,Leiria,452,310,70,34.92,Pré-Pago
+CUST0323,Samuel Branco,52,male,930796389,samuel.branco@gmail.com,Porto,252,159,100,102.89,Pré-Pago
+CUST0324,João Leal,35,male,978140959,joao.leal@gmail.com,Lisboa,122,587,220,47.04,Empresarial
+CUST0325,Leonor da Loureiro,59,male,927589104,leonor.da.loureiro@gmail.com,Setúbal,954,56,50,27.85,Empresarial
+CUST0326,Ana do Ribeiro,19,female,993851247,ana.do.ribeiro@gmail.com,Braga,129,422,240,58.14,Pós-Pago
+CUST0327,Bárbara Marques,36,female,958895439,barbara.marques@gmail.com,Coimbra,419,304,150,77.17,Empresarial
+CUST0328,Vitória Valente,19,female,970254091,vitoria.valente@gmail.com,Coimbra,243,382,180,36.31,Pós-Pago
+CUST0329,Gaspar do Vieira,33,male,936040410,gaspar.do.vieira@gmail.com,Aveiro,261,471,220,114.18,Pós-Pago
+CUST0330,Violeta Juliana Gaspar,20,female,971965637,violeta.juliana.gaspar@gmail.com,Faro,282,959,250,52.01,Empresarial
+CUST0331,Brian Gaspar,40,male,966191704,brian.gaspar@gmail.com,Braga,528,182,70,98.14,Pré-Pago
+CUST0332,Ivan Leite Carneiro,21,male,943554863,ivan.leite.carneiro@gmail.com,Lisboa,279,492,210,62.86,Pós-Pago
+CUST0333,Letícia Branco,35,female,984429198,leticia.branco@gmail.com,Porto,196,611,230,103.05,Pré-Pago
+CUST0334,Beatriz Lourenço,28,male,948260510,beatriz.lourenco@gmail.com,Porto,205,398,250,27.63,Pós-Pago
+CUST0335,Bárbara Araújo,31,female,978901038,barbara.araujo@gmail.com,Braga,260,333,140,20.09,Pré-Pago
+CUST0336,João Almeida,63,male,970549373,joao.almeida@gmail.com,Aveiro,533,156,10,55.64,Pós-Pago
+CUST0337,Margarida Yasmin Carneiro,55,female,977378254,margarida.yasmin.carneiro@gmail.com,Aveiro,251,298,80,52.48,Pré-Pago
+CUST0338,Leonardo Cruz,58,male,960319927,leonardo.cruz@gmail.com,Coimbra,820,148,10,45.06,Pré-Pago
+CUST0339,Letícia Azevedo,53,female,997236246,leticia.azevedo@gmail.com,Aveiro,892,86,50,25.14,Pós-Pago
+CUST0340,Bruno do Anjos,29,male,973411827,bruno.do.anjos@gmail.com,Braga,93,842,250,87.61,Pós-Pago
+CUST0341,Ivan do Brito,57,male,992590645,ivan.do.brito@gmail.com,Lisboa,966,147,30,12.09,Pré-Pago
+CUST0342,Ana Matias,65,female,930068183,ana.matias@gmail.com,Setúbal,582,111,40,95.38,Pré-Pago
+CUST0343,Kyara Vaz,69,female,950419829,kyara.vaz@gmail.com,Porto,753,79,20,36.23,Empresarial
+CUST0344,Duarte Monteiro,52,male,993592219,duarte.monteiro@gmail.com,Leiria,537,109,30,22.19,Pós-Pago
+CUST0345,Mara Mota,21,female,990092958,mara.mota@gmail.com,Lisboa,69,722,210,66.69,Pré-Pago
+CUST0346,Bruna Coelho,44,female,929270557,bruna.coelho@gmail.com,Faro,545,320,140,10.17,Pós-Pago
+CUST0347,Jéssica Pinto,55,female,942287985,jessica.pinto@gmail.com,Setúbal,524,360,60,83.08,Pré-Pago
+CUST0348,André Borges,73,male,980260907,andre.borges@gmail.com,Aveiro,759,73,30,114.87,Empresarial
+CUST0349,Sérgio Leite Batista,32,male,978092370,sergio.leite.batista@gmail.com,Lisboa,570,206,130,106.07,Pré-Pago
+CUST0350,Tomás do Rocha,39,male,995318289,tomas.do.rocha@gmail.com,Setúbal,500,373,120,37.9,Pré-Pago
+CUST0351,Noa Morais Cunha,47,female,957928328,noa.morais.cunha@gmail.com,Porto,409,183,120,36.52,Empresarial
+CUST0352,Wilson Marques,23,male,994323222,wilson.marques@gmail.com,Porto,77,802,250,74.01,Pós-Pago
+CUST0353,Raquel Araújo,43,male,927905932,raquel.araujo@gmail.com,Lisboa,585,172,120,70.06,Empresarial
+CUST0354,Miguel Anjos,21,male,933500064,miguel.anjos@gmail.com,Leiria,152,653,230,62.64,Pré-Pago
+CUST0355,Mara Alves,21,female,928099607,mara.alves@gmail.com,Porto,206,843,230,95.38,Pós-Pago
+CUST0356,Kyara Emma Gomes,48,female,914963880,kyara.emma.gomes@gmail.com,Faro,519,102,70,14.82,Pré-Pago
+CUST0357,Isabela Antunes,37,female,915624520,isabela.antunes@gmail.com,Aveiro,528,334,100,66.69,Empresarial
+CUST0358,Eduardo Santos,70,male,973538641,eduardo.santos@gmail.com,Faro,782,60,20,92.86,Pré-Pago
+CUST0359,Kevin Vieira,34,male,948401154,kevin.vieira@gmail.com,Aveiro,298,376,250,15.26,Empresarial
+CUST0360,Carolina Vicente,62,female,954550177,carolina.vicente@gmail.com,Faro,698,113,40,97.93,Pós-Pago
+CUST0361,Nuno Amorim Guerreiro,42,male,963690013,nuno.amorim.guerreiro@gmail.com,Leiria,560,263,130,47.29,Pré-Pago
+CUST0362,Guilherme Melo,45,male,976599269,guilherme.melo@gmail.com,Leiria,203,197,120,111.67,Empresarial
+CUST0363,Érica Mota,35,female,945798645,erica.mota@gmail.com,Porto,181,656,240,56.69,Pós-Pago
+CUST0364,Madalena da Ferreira,20,female,990859912,madalena.da.ferreira@gmail.com,Braga,98,363,180,42.31,Pré-Pago
+CUST0365,Miguel Carneiro,35,male,920746667,miguel.carneiro@gmail.com,Aveiro,300,552,220,42.52,Pós-Pago
+CUST0366,Tiago Fernandes,54,male,990882505,tiago.fernandes@gmail.com,Setúbal,229,273,60,85.87,Pós-Pago
+CUST0367,Benedita Lopes,34,female,970012727,benedita.lopes@gmail.com,Lisboa,198,508,240,105.7,Pós-Pago
+CUST0368,Joaquim da Fernandes,33,male,992523968,joaquim.da.fernandes@gmail.com,Setúbal,503,192,90,80.34,Pré-Pago
+CUST0369,Larissa Mota,33,female,920071854,larissa.mota@gmail.com,Setúbal,576,112,120,66.44,Empresarial
+CUST0370,Lorena Victória Macedo,66,female,931473054,lorena.victoria.macedo@gmail.com,Lisboa,759,156,50,103.35,Empresarial
+CUST0371,Lourenço Lopes,61,male,968810561,lourenco.lopes@gmail.com,Lisboa,542,79,50,17.4,Empresarial
+CUST0372,Íris Ribeiro,39,male,959167775,iris.ribeiro@gmail.com,Aveiro,530,229,130,114.44,Pré-Pago
+CUST0373,Lia do Vicente,22,female,991214453,lia.do.vicente@gmail.com,Braga,112,535,220,59.49,Pós-Pago
+CUST0374,Erika Nascimento,21,female,959930790,erika.nascimento@gmail.com,Leiria,176,393,250,18.46,Pré-Pago
+CUST0375,Samuel Antunes,30,male,981062902,samuel.antunes@gmail.com,Aveiro,444,293,130,44.58,Pós-Pago
+CUST0376,Lúcia Correia,53,female,943502308,lucia.correia@gmail.com,Porto,631,105,10,90.92,Pós-Pago
+CUST0377,Francisca Baptista,19,female,979490594,francisca.baptista@gmail.com,Setúbal,88,724,180,22.95,Pós-Pago
+CUST0378,Filipa Borges,24,female,969897763,filipa.borges@gmail.com,Coimbra,139,453,200,41.41,Pós-Pago
+CUST0379,Catarina Catarina Brito,65,female,936867482,catarina.catarina.brito@gmail.com,Porto,749,189,50,103.81,Pós-Pago
+CUST0380,Rita da Paiva,64,female,933173544,rita.da.paiva@gmail.com,Leiria,967,191,30,99.16,Pós-Pago
+CUST0381,João Sousa,28,male,999635939,joao.sousa@gmail.com,Aveiro,129,779,230,17.14,Empresarial
+CUST0382,Tomé Vieira,53,male,948971765,tome.vieira@gmail.com,Faro,475,199,60,88.3,Empresarial
+CUST0383,Inês Rodrigues,35,male,995590648,ines.rodrigues@gmail.com,Braga,316,241,120,65.96,Pré-Pago
+CUST0384,Xavier Vaz,41,male,936975128,xavier.vaz@gmail.com,Braga,224,319,80,96.94,Pré-Pago
+CUST0385,Violeta Pires,40,female,958438711,violeta.pires@gmail.com,Aveiro,314,395,150,98.4,Empresarial
+CUST0386,William Azevedo,61,male,927417599,william.azevedo@gmail.com,Porto,936,61,30,44.02,Empresarial
+CUST0387,Xavier Cardoso,30,male,974245343,xavier.cardoso@gmail.com,Setúbal,249,640,250,55.04,Empresarial
+CUST0388,Carolina Torres,38,female,919898653,carolina.torres@gmail.com,Braga,579,353,110,80.66,Pós-Pago
+CUST0389,Mélanie Tavares Costa,51,male,972523073,melanie.tavares.costa@gmail.com,Aveiro,921,75,50,106.58,Empresarial
+CUST0390,Filipe Nascimento,18,male,995871687,filipe.nascimento@gmail.com,Braga,276,839,250,116.29,Pós-Pago
+CUST0391,Teresa Batista,56,female,977493234,teresa.batista@gmail.com,Lisboa,934,87,40,66.99,Pós-Pago
+CUST0392,William Freitas,34,male,932099899,william.freitas@gmail.com,Braga,566,227,110,112.82,Pré-Pago
+CUST0393,Ivo Antunes,72,male,956442431,ivo.antunes@gmail.com,Faro,796,178,30,37.57,Empresarial
+CUST0394,Tomás Araújo Cunha,55,male,983932683,tomas.araujo.cunha@gmail.com,Faro,1000,161,50,78.75,Empresarial
+CUST0395,Lourenço de Amorim,23,male,981602209,lourenco.de.amorim@gmail.com,Porto,118,550,170,80.51,Empresarial
+CUST0396,Íris Henriques,42,male,987933054,iris.henriques@gmail.com,Braga,254,367,60,82.46,Empresarial
+CUST0397,Margarida Ferreira,26,female,991220369,margarida.ferreira@gmail.com,Aveiro,274,772,190,14.53,Pré-Pago
+CUST0398,Núria Petra Sousa,18,female,920901547,nuria.petra.sousa@gmail.com,Lisboa,163,411,210,94.81,Pós-Pago
+CUST0399,Maria Moura,20,female,997393186,maria.moura@gmail.com,Coimbra,269,953,250,72.94,Empresarial
+CUST0400,João Monteiro,35,male,995763946,joao.monteiro@gmail.com,Lisboa,152,617,160,107.79,Empresarial
+CUST0401,Nuno Esteves,19,male,948879071,nuno.esteves@gmail.com,Faro,280,815,160,36.94,Empresarial
+CUST0402,Vasco Pereira,51,male,964504816,vasco.pereira@gmail.com,Faro,509,244,150,18.03,Pré-Pago
+CUST0403,Brian Anjos Coelho,35,male,931217198,brian.anjos.coelho@gmail.com,Leiria,316,284,140,63.27,Pré-Pago
+CUST0404,Sebastião Pinheiro,33,male,955659873,sebastiao.pinheiro@gmail.com,Braga,559,169,110,104.76,Pós-Pago
+CUST0405,Diogo Pinho,67,male,956354851,diogo.pinho@gmail.com,Setúbal,539,181,50,93.67,Empresarial
+CUST0406,Joel Faria Vicente,45,male,985383550,joel.faria.vicente@gmail.com,Porto,365,104,110,36.59,Pré-Pago
+CUST0407,Nádia Lourenço,39,female,945899440,nadia.lourenco@gmail.com,Leiria,296,249,80,25.5,Pré-Pago
+CUST0408,Alexandra Ribeiro,21,female,948951595,alexandra.ribeiro@gmail.com,Setúbal,60,777,200,55.99,Pré-Pago
+CUST0409,Daniel Costa,35,male,953947691,daniel.costa@gmail.com,Aveiro,394,225,70,93.94,Pós-Pago
+CUST0410,Afonso Freitas,33,male,979085198,afonso.freitas@gmail.com,Leiria,221,625,160,106.7,Pós-Pago
+CUST0411,Artur Castro,40,male,913110670,artur.castro@gmail.com,Porto,331,279,130,65.6,Pré-Pago
+CUST0412,Patrícia Andrade,69,female,938876195,patricia.andrade@gmail.com,Aveiro,673,51,20,15.56,Pós-Pago
+CUST0413,Valentina Silva Reis,51,female,990197611,valentina.silva.reis@gmail.com,Leiria,437,309,100,69.04,Pré-Pago
+CUST0414,Diana Simões,35,female,967838146,diana.simoes@gmail.com,Braga,424,207,90,90.03,Pós-Pago
+CUST0415,Caetana Leite,43,female,959115280,caetana.leite@gmail.com,Lisboa,540,207,130,15.63,Empresarial
+CUST0416,Mélanie Leite,28,male,936126192,melanie.leite@gmail.com,Aveiro,168,312,180,41.75,Pós-Pago
+CUST0417,Lucas Teixeira,23,male,977680031,lucas.teixeira@gmail.com,Leiria,210,578,250,70.48,Empresarial
+CUST0418,Helena Melo,56,female,992012822,helena.melo@gmail.com,Porto,876,106,50,117.26,Pós-Pago
+CUST0419,Joel Miranda,18,male,960089832,joel.miranda@gmail.com,Aveiro,99,376,180,113.28,Pré-Pago
+CUST0420,Bárbara do Miranda,22,female,936717096,barbara.do.miranda@gmail.com,Setúbal,80,757,170,14.43,Pré-Pago
+CUST0421,Luca Pereira,31,female,928392710,luca.pereira@gmail.com,Aveiro,214,732,160,67.13,Pré-Pago
+CUST0422,Letícia Anjos,50,female,991370909,leticia.anjos@gmail.com,Braga,416,300,110,112.45,Pós-Pago
+CUST0423,Naiara Reis Reis,22,female,931810655,naiara.reis.reis@gmail.com,Setúbal,231,850,200,91.33,Pós-Pago
+CUST0424,Melissa Moreira Mota,26,female,989688374,melissa.moreira.mota@gmail.com,Aveiro,280,798,170,101.11,Empresarial
+CUST0425,José Garcia,32,male,975746104,jose.garcia@gmail.com,Faro,193,695,160,99.73,Pós-Pago
+CUST0426,Vitória do Azevedo,55,female,954458225,vitoria.do.azevedo@gmail.com,Porto,508,394,140,74.21,Empresarial
+CUST0427,Flor Baptista,33,male,994457912,flor.baptista@gmail.com,Lisboa,279,781,200,62.2,Empresarial
+CUST0428,Renata Cruz,19,female,987641510,renata.cruz@gmail.com,Coimbra,204,717,240,15.65,Pós-Pago
+CUST0429,Francisco Amorim,51,male,932885741,francisco.amorim@gmail.com,Setúbal,830,191,50,100.38,Pré-Pago
+CUST0430,David Vicente,31,male,914237322,david.vicente@gmail.com,Porto,548,381,70,12.08,Pós-Pago
+CUST0431,Mélanie Matos,55,male,966207740,melanie.matos@gmail.com,Braga,232,292,140,85.96,Pós-Pago
+CUST0432,Gabriela de Macedo,25,female,977353073,gabriela.de.macedo@gmail.com,Leiria,218,792,240,90.01,Empresarial
+CUST0433,Luísa Abreu,29,female,928533117,luisa.abreu@gmail.com,Coimbra,125,854,180,45.76,Empresarial
+CUST0434,Edgar de Sá,33,male,974205866,edgar.de.sa@gmail.com,Setúbal,335,181,110,115.24,Pós-Pago
+CUST0435,Eduardo Esteves,27,male,981555103,eduardo.esteves@gmail.com,Aveiro,159,552,180,48.97,Empresarial
+CUST0436,Samuel Pacheco Vicente,20,male,996343485,samuel.pacheco.vicente@gmail.com,Faro,245,569,200,63.26,Pré-Pago
+CUST0437,Wilson de Pires,53,male,947447604,wilson.de.pires@gmail.com,Faro,421,197,80,113.56,Pós-Pago
+CUST0438,Rui Soares Morais,35,male,948789478,rui.soares.morais@gmail.com,Coimbra,284,906,230,87.55,Pós-Pago
+CUST0439,Edgar Lourenço,22,male,974398125,edgar.lourenco@gmail.com,Aveiro,300,404,180,112.71,Empresarial
+CUST0440,Vitória Rocha,65,female,946702849,vitoria.rocha@gmail.com,Faro,705,182,40,73.08,Empresarial
+CUST0441,Ângelo Magalhães,51,male,960961690,angelo.magalhaes@gmail.com,Setúbal,293,373,120,115.01,Pré-Pago
+CUST0442,Bruna Matias,34,female,948983895,bruna.matias@gmail.com,Lisboa,494,292,100,115.08,Pré-Pago
+CUST0443,Pedro Rocha,27,male,956488123,pedro.rocha@gmail.com,Leiria,166,861,210,38.21,Pós-Pago
+CUST0444,Luca Marques,29,female,938720823,luca.marques@gmail.com,Coimbra,240,826,180,39.82,Empresarial
+CUST0445,Lourenço Gonçalves,70,male,946456416,lourenco.goncalves@gmail.com,Braga,844,178,40,77.72,Empresarial
+CUST0446,Daniela de Torres,58,female,942115895,daniela.de.torres@gmail.com,Coimbra,545,191,20,83.68,Empresarial
+CUST0447,Mateus Araújo,75,male,940289135,mateus.araujo@gmail.com,Coimbra,856,59,20,21.02,Pós-Pago
+CUST0448,Rodrigo Fernandes,27,male,973404979,rodrigo.fernandes@gmail.com,Porto,197,832,220,94.78,Pré-Pago
+CUST0449,Eva Melissa Vieira,35,female,983867070,eva.melissa.vieira@gmail.com,Braga,495,276,140,81.82,Pós-Pago
+CUST0450,Rafael Vieira,26,male,974082055,rafael.vieira@gmail.com,Coimbra,111,798,250,116.03,Pós-Pago
+CUST0451,Igor Freitas,27,male,948307798,igor.freitas@gmail.com,Lisboa,139,924,250,19.84,Empresarial
+CUST0452,Beatriz Rocha,36,male,941168067,beatriz.rocha@gmail.com,Lisboa,344,354,60,55.97,Pré-Pago
+CUST0453,António Anjos,25,male,914877451,antonio.anjos@gmail.com,Setúbal,101,309,160,30.49,Empresarial
+CUST0454,Lorena Carvalho,64,female,948851599,lorena.carvalho@gmail.com,Lisboa,996,149,10,42.82,Empresarial
+CUST0455,Vicente Barbosa,46,male,924401654,vicente.barbosa@gmail.com,Aveiro,457,161,100,59.98,Empresarial
+CUST0456,Cláudio Pinheiro,58,male,982920556,claudio.pinheiro@gmail.com,Leiria,634,189,50,103.62,Pós-Pago
+CUST0457,Luna Tavares,72,female,946619573,luna.tavares@gmail.com,Coimbra,938,82,40,46.38,Empresarial
+CUST0458,Vasco Ramos,24,male,971594457,vasco.ramos@gmail.com,Faro,181,393,230,30.48,Empresarial
+CUST0459,Edgar Torres,32,male,955246430,edgar.torres@gmail.com,Faro,299,402,190,84.18,Pré-Pago
+CUST0460,Nuno Monteiro,32,male,933554528,nuno.monteiro@gmail.com,Setúbal,392,195,140,66.68,Pré-Pago
+CUST0461,Luana Lima Carneiro,38,female,963798927,luana.lima.carneiro@gmail.com,Porto,421,295,60,117.99,Pós-Pago
+CUST0462,Marco Tavares Matias,75,male,953433080,marco.tavares.matias@gmail.com,Coimbra,549,164,10,38.69,Pré-Pago
+CUST0463,Lisandro de Costa,43,male,969959826,lisandro.de.costa@gmail.com,Faro,271,261,110,43.21,Empresarial
+CUST0464,Ana Matos,49,female,986890296,ana.matos@gmail.com,Lisboa,517,376,90,81.91,Empresarial
+CUST0465,Hugo Pires,26,male,941715995,hugo.pires@gmail.com,Lisboa,97,835,220,23.0,Pós-Pago
+CUST0466,Anita de Amorim,22,female,931436829,anita.de.amorim@gmail.com,Setúbal,173,324,220,65.28,Empresarial
+CUST0467,Carlos Machado,32,male,951738753,carlos.machado@gmail.com,Porto,174,433,210,110.77,Pós-Pago
+CUST0468,Martim Machado,46,male,959330907,martim.machado@gmail.com,Coimbra,350,396,80,115.31,Pós-Pago
+CUST0469,Gabriel Simões,24,male,930560218,gabriel.simoes@gmail.com,Leiria,110,487,240,118.77,Pós-Pago
+CUST0470,Diego Vicente,19,male,965813853,diego.vicente@gmail.com,Leiria,152,507,250,69.13,Empresarial
+CUST0471,Patrícia Monteiro,28,female,939314711,patricia.monteiro@gmail.com,Coimbra,228,686,220,93.02,Pré-Pago
+CUST0472,Rita Correia Coelho,33,female,980532309,rita.correia.coelho@gmail.com,Leiria,252,772,170,87.41,Pré-Pago
+CUST0473,Brian Tavares,67,male,985721444,brian.tavares@gmail.com,Porto,977,176,20,101.17,Empresarial
+CUST0474,Joana do Amorim,34,female,937133023,joana.do.amorim@gmail.com,Braga,336,190,60,46.09,Empresarial
+CUST0475,Irina Neves Fonseca,22,female,969302835,irina.neves.fonseca@gmail.com,Porto,51,482,220,32.59,Empresarial
+CUST0476,João Torres Mota,32,male,975609379,joao.torres.mota@gmail.com,Porto,130,746,170,59.0,Pré-Pago
+CUST0477,Emma Matos,29,female,970858653,emma.matos@gmail.com,Braga,134,561,170,55.7,Empresarial
+CUST0478,Manuel Mendes,18,male,917749299,manuel.mendes@gmail.com,Leiria,94,457,220,98.76,Empresarial
+CUST0479,Frederico Brito,48,male,912921981,frederico.brito@gmail.com,Setúbal,370,306,90,99.81,Empresarial
+CUST0480,Catarina Pinho,54,female,939246218,catarina.pinho@gmail.com,Porto,624,161,20,56.61,Empresarial
+CUST0481,Salomé Anjos,50,male,918557710,salome.anjos@gmail.com,Lisboa,862,76,30,118.48,Pós-Pago
+CUST0482,Francisco Baptista,53,male,914259382,francisco.baptista@gmail.com,Faro,440,147,140,29.8,Pré-Pago
+CUST0483,Kyara Torres,54,female,996104027,kyara.torres@gmail.com,Setúbal,340,230,120,119.21,Pós-Pago
+CUST0484,Letícia Ramos,40,female,970201634,leticia.ramos@gmail.com,Setúbal,459,333,130,18.83,Empresarial
+CUST0485,Leonor Sá,19,male,982383656,leonor.sa@gmail.com,Braga,194,478,210,104.63,Pré-Pago
+CUST0486,Gustavo Mendes,18,male,933954324,gustavo.mendes@gmail.com,Setúbal,180,829,170,24.01,Pré-Pago
+CUST0487,Filipe Magalhães Valente,51,male,910466177,filipe.magalhaes.valente@gmail.com,Lisboa,244,127,100,60.93,Empresarial
+CUST0488,Paulo Garcia,20,male,983074216,paulo.garcia@gmail.com,Setúbal,202,916,180,51.72,Pré-Pago
+CUST0489,Benedita Santos,55,female,943220503,benedita.santos@gmail.com,Leiria,572,393,120,27.06,Pré-Pago
+CUST0490,Joana Borges,24,female,925145751,joana.borges@gmail.com,Lisboa,144,544,220,56.12,Pré-Pago
+CUST0491,Sebastião Alves Batista,68,male,942301683,sebastiao.alves.batista@gmail.com,Coimbra,937,173,30,21.1,Pré-Pago
+CUST0492,Rafaela Carneiro,54,female,969920305,rafaela.carneiro@gmail.com,Lisboa,521,373,80,91.46,Pós-Pago
+CUST0493,Alexandra Melissa Amaral,24,female,968916591,alexandra.melissa.amaral@gmail.com,Coimbra,68,376,180,33.9,Pré-Pago
+CUST0494,Teresa Batista,49,female,928808678,teresa.batista@gmail.com,Faro,444,195,80,99.74,Empresarial
+CUST0495,Luísa Oliveira,23,female,987324220,luisa.oliveira@gmail.com,Aveiro,210,869,190,75.77,Empresarial
+CUST0496,Frederico Nogueira,48,male,953038943,frederico.nogueira@gmail.com,Coimbra,332,108,100,106.39,Empresarial
+CUST0497,Joel de Loureiro,53,male,979961132,joel.de.loureiro@gmail.com,Coimbra,425,223,140,43.06,Pré-Pago
+CUST0498,César Pinheiro,30,male,984721440,cesar.pinheiro@gmail.com,Braga,163,856,210,84.66,Empresarial
+CUST0499,Luciana Fernandes,41,female,976521096,luciana.fernandes@gmail.com,Lisboa,211,224,120,113.57,Empresarial
+CUST0500,Bárbara Anjos,20,female,961157708,barbara.anjos@gmail.com,Aveiro,170,989,230,55.8,Pré-Pago
+CUST0501,Camila da Lourenço,36,female,950250352,camila.da.lourenco@gmail.com,Setúbal,424,337,60,92.99,Pós-Pago
+CUST0502,Hugo Fonseca,33,male,942342202,hugo.fonseca@gmail.com,Coimbra,473,279,100,104.33,Pré-Pago
+CUST0503,Ema Cruz,27,female,972146184,ema.cruz@gmail.com,Lisboa,199,750,180,55.39,Pós-Pago
+CUST0504,Miguel de Borges,30,male,984797762,miguel.de.borges@gmail.com,Braga,245,217,130,36.71,Pré-Pago
+CUST0505,Júlia Gonçalves,39,female,954327148,julia.goncalves@gmail.com,Porto,295,189,150,103.18,Pré-Pago
+CUST0506,Naiara Garcia,64,female,981891784,naiara.garcia@gmail.com,Coimbra,518,149,20,39.53,Empresarial
+CUST0507,Yasmin de Leite,73,male,991197624,yasmin.de.leite@gmail.com,Lisboa,641,131,30,30.7,Empresarial
+CUST0508,Duarte Ferreira,31,male,985007641,duarte.ferreira@gmail.com,Coimbra,274,967,160,32.98,Pós-Pago
+CUST0509,Irina de Torres,47,female,950693207,irina.de.torres@gmail.com,Lisboa,506,315,70,113.09,Empresarial
+CUST0510,Mara Faria,41,female,925745913,mara.faria@gmail.com,Leiria,479,225,80,86.52,Empresarial
+CUST0511,Samuel Fonseca,33,male,937449289,samuel.fonseca@gmail.com,Setúbal,414,182,80,70.73,Pós-Pago
+CUST0512,Rafael Ramos,34,male,961091554,rafael.ramos@gmail.com,Leiria,250,516,180,81.36,Pós-Pago
+CUST0513,Vasco Baptista,30,male,945106207,vasco.baptista@gmail.com,Aveiro,69,419,170,107.11,Pós-Pago
+CUST0514,Lucas Sousa,18,male,923234972,lucas.sousa@gmail.com,Leiria,94,501,250,102.37,Pré-Pago
+CUST0515,Nuno Nunes,39,male,959755172,nuno.nunes@gmail.com,Aveiro,274,189,140,15.03,Pré-Pago
+CUST0516,Mário Fonseca,39,male,929585415,mario.fonseca@gmail.com,Lisboa,427,159,90,70.86,Empresarial
+CUST0517,Inês Mendes Morais,32,male,987731247,ines.mendes.morais@gmail.com,Setúbal,446,397,100,26.77,Pós-Pago
+CUST0518,Matilde Alves,20,male,940872577,matilde.alves@gmail.com,Setúbal,110,538,190,101.67,Pós-Pago
+CUST0519,Mara Torres,48,female,983905989,mara.torres@gmail.com,Aveiro,335,274,90,93.97,Pós-Pago
+CUST0520,Enzo Silva,31,male,996126771,enzo.silva@gmail.com,Leiria,512,310,150,28.51,Pós-Pago
+CUST0521,Benedita Assunção,28,female,932718459,benedita.assuncao@gmail.com,Braga,285,843,240,70.12,Pré-Pago
+CUST0522,Mafalda Isabel Figueiredo,28,female,982764376,mafalda.isabel.figueiredo@gmail.com,Lisboa,140,879,170,13.72,Pré-Pago
+CUST0523,Carlos Cunha,25,male,999686372,carlos.cunha@gmail.com,Lisboa,129,885,250,10.7,Pré-Pago
+CUST0524,Luna Pires,64,female,994651342,luna.pires@gmail.com,Coimbra,840,85,30,87.79,Pré-Pago
+CUST0525,Luna da Gomes,34,female,939356057,luna.da.gomes@gmail.com,Leiria,538,179,120,16.65,Empresarial
+CUST0526,Gaspar Batista Baptista,18,male,999490304,gaspar.batista.baptista@gmail.com,Leiria,51,553,220,63.66,Pré-Pago
+CUST0527,Mateus Cardoso Pereira,68,male,981432350,mateus.cardoso.pereira@gmail.com,Setúbal,704,137,10,11.84,Empresarial
+CUST0528,Amélia Moreira,73,female,946875077,amelia.moreira@gmail.com,Faro,518,76,10,65.24,Empresarial
+CUST0529,Sara de Vaz,55,female,967790557,sara.de.vaz@gmail.com,Braga,597,180,40,110.99,Empresarial
+CUST0530,Débora Freitas,34,female,929984682,debora.freitas@gmail.com,Coimbra,319,333,70,78.18,Pós-Pago
+CUST0531,Nicole Cunha,55,male,957572279,nicole.cunha@gmail.com,Faro,385,272,130,18.69,Pós-Pago
+CUST0532,Leonor Vaz,32,male,971605634,leonor.vaz@gmail.com,Coimbra,180,642,230,34.84,Empresarial
+CUST0533,Sara Azevedo,63,female,920820219,sara.azevedo@gmail.com,Lisboa,578,161,30,54.58,Pós-Pago
+CUST0534,Luana de Santos,69,female,984182331,luana.de.santos@gmail.com,Leiria,803,132,20,80.04,Empresarial
+CUST0535,Francisco de Moura,30,male,933002714,francisco.de.moura@gmail.com,Porto,297,477,160,102.99,Empresarial
+CUST0536,David Garcia,27,male,954462389,david.garcia@gmail.com,Porto,280,412,170,111.11,Pré-Pago
+CUST0537,Afonso Vicente,53,male,938375916,afonso.vicente@gmail.com,Leiria,223,153,90,15.12,Pré-Pago
+CUST0538,Diego Henriques,39,male,947631028,diego.henriques@gmail.com,Lisboa,557,196,60,112.16,Pós-Pago
+CUST0539,Luana Rocha,34,female,912101593,luana.rocha@gmail.com,Coimbra,88,473,190,25.86,Empresarial
+CUST0540,Vasco Domingues,34,male,963458386,vasco.domingues@gmail.com,Porto,428,179,100,27.87,Pré-Pago
+CUST0541,Mafalda Cunha,30,female,986060638,mafalda.cunha@gmail.com,Setúbal,69,636,220,108.62,Pós-Pago
+CUST0542,Íris Miranda,20,male,961518966,iris.miranda@gmail.com,Braga,106,661,230,89.66,Empresarial
+CUST0543,Vítor Teixeira,75,male,956420476,vitor.teixeira@gmail.com,Lisboa,755,87,40,58.08,Pré-Pago
+CUST0544,Salomé Loureiro,25,male,955713584,salome.loureiro@gmail.com,Setúbal,97,1000,250,45.9,Empresarial
+CUST0545,Leandro do Ramos,26,male,946685332,leandro.do.ramos@gmail.com,Leiria,265,512,160,35.1,Empresarial
+CUST0546,Kyara Costa Abreu,44,female,960388958,kyara.costa.abreu@gmail.com,Setúbal,425,284,60,84.77,Empresarial
+CUST0547,Pedro Domingues,30,male,961012496,pedro.domingues@gmail.com,Porto,128,750,250,78.05,Pré-Pago
+CUST0548,Mara Helena Torres,33,female,919865900,mara.helena.torres@gmail.com,Porto,406,116,90,26.96,Empresarial
+CUST0549,Wilson Miranda,21,male,995080736,wilson.miranda@gmail.com,Braga,186,769,240,52.86,Pós-Pago
+CUST0550,Nelson Neves,56,male,924301022,nelson.neves@gmail.com,Porto,991,196,10,113.73,Pós-Pago
+CUST0551,Rui Borges,54,male,958307308,rui.borges@gmail.com,Faro,693,197,40,24.58,Pré-Pago
+CUST0552,Nair Loureiro,18,male,967845091,nair.loureiro@gmail.com,Leiria,267,873,180,71.02,Pós-Pago
+CUST0553,Nelson Barros,62,male,923863742,nelson.barros@gmail.com,Lisboa,926,111,30,48.93,Pré-Pago
+CUST0554,Kyara Torres,30,female,990117857,kyara.torres@gmail.com,Aveiro,246,279,130,11.36,Pós-Pago
+CUST0555,Bruno Monteiro,34,male,962049575,bruno.monteiro@gmail.com,Porto,166,364,240,109.12,Pré-Pago
+CUST0556,Luna do Correia,32,female,986767229,luna.do.correia@gmail.com,Braga,292,475,220,51.88,Pré-Pago
+CUST0557,Salomé Vicente,38,male,946093692,salome.vicente@gmail.com,Faro,278,364,90,64.24,Pré-Pago
+CUST0558,Joel Mendes,32,male,932442197,joel.mendes@gmail.com,Setúbal,472,304,90,56.32,Pós-Pago
+CUST0559,Melissa do Araújo,43,female,920324210,melissa.do.araujo@gmail.com,Aveiro,323,145,90,113.86,Empresarial
+CUST0560,Sérgio Barbosa,31,male,993890601,sergio.barbosa@gmail.com,Leiria,222,736,200,77.83,Pós-Pago
+CUST0561,Álvaro Brito,48,male,924357588,alvaro.brito@gmail.com,Braga,289,266,100,10.74,Pós-Pago
+CUST0562,Soraia Moreira,50,female,954589439,soraia.moreira@gmail.com,Setúbal,447,346,110,58.42,Pós-Pago
+CUST0563,Frederico Moreira,42,male,997380687,frederico.moreira@gmail.com,Braga,417,279,100,45.27,Empresarial
+CUST0564,Micael Lima,44,male,936957830,micael.lima@gmail.com,Leiria,200,198,110,29.54,Pós-Pago
+CUST0565,Renata Andrade,22,female,952833932,renata.andrade@gmail.com,Faro,82,474,240,86.45,Pós-Pago
+CUST0566,Alice Loureiro,34,male,987293208,alice.loureiro@gmail.com,Coimbra,395,254,110,51.37,Pós-Pago
+CUST0567,Letícia Carneiro,34,female,958991556,leticia.carneiro@gmail.com,Porto,220,993,190,31.98,Empresarial
+CUST0568,Júlia Caetana Sá,18,female,934149421,julia.caetana.sa@gmail.com,Lisboa,179,958,240,60.78,Empresarial
+CUST0569,Dinis Vicente,41,male,938138531,dinis.vicente@gmail.com,Leiria,580,391,100,101.44,Pré-Pago
+CUST0570,Paulo de Sousa,57,male,964914054,paulo.de.sousa@gmail.com,Leiria,922,198,50,79.67,Pré-Pago
+CUST0571,Brian Vicente,34,male,943914361,brian.vicente@gmail.com,Braga,289,673,230,56.54,Pós-Pago
+CUST0572,Gabriela Marques,20,female,919927432,gabriela.marques@gmail.com,Leiria,229,851,200,62.72,Pós-Pago
+CUST0573,Caetana Nádia Cunha,24,female,981721578,caetana.nadia.cunha@gmail.com,Setúbal,133,562,180,14.04,Pós-Pago
+CUST0574,Vítor da Vicente,57,male,982062301,vitor.da.vicente@gmail.com,Porto,782,197,40,94.58,Empresarial
+CUST0575,Luísa Gonçalves Melo,49,female,999213703,luisa.goncalves.melo@gmail.com,Aveiro,590,229,60,81.17,Pré-Pago
+CUST0576,Salvador Leite,25,male,985594147,salvador.leite@gmail.com,Setúbal,261,416,250,46.48,Pós-Pago
+CUST0577,Eduarda Mota,51,female,924219637,eduarda.mota@gmail.com,Lisboa,805,63,40,38.46,Empresarial
+CUST0578,Mia de Lopes,46,female,979631857,mia.de.lopes@gmail.com,Coimbra,315,310,150,51.15,Pós-Pago
+CUST0579,Yara Lourenço,40,female,988999206,yara.lourenco@gmail.com,Braga,304,392,120,119.75,Pós-Pago
+CUST0580,Andreia Machado,47,female,924032377,andreia.machado@gmail.com,Faro,351,265,140,111.26,Pré-Pago
+CUST0581,Lara Gonçalves,45,female,925578562,lara.goncalves@gmail.com,Braga,461,393,120,44.31,Pós-Pago
+CUST0582,Adriana Torres,37,female,937765262,adriana.torres@gmail.com,Leiria,498,289,120,62.38,Pós-Pago
+CUST0583,Francisca Alves,73,female,970726434,francisca.alves@gmail.com,Aveiro,961,126,30,43.03,Empresarial
+CUST0584,Artur Miranda,33,male,925446483,artur.miranda@gmail.com,Lisboa,414,339,110,81.28,Empresarial
+CUST0585,Gonçalo Tavares Faria,21,male,932059232,goncalo.tavares.faria@gmail.com,Coimbra,255,387,170,29.19,Pré-Pago
+CUST0586,Mauro Antunes,44,male,954424679,mauro.antunes@gmail.com,Setúbal,439,307,150,35.5,Pós-Pago
+CUST0587,Wilson Oliveira,34,male,994524999,wilson.oliveira@gmail.com,Braga,541,224,60,80.45,Pós-Pago
+CUST0588,Érica Lourenço,24,female,963094168,erica.lourenco@gmail.com,Lisboa,91,495,240,77.55,Pré-Pago
+CUST0589,Bruna Monteiro,43,female,970340936,bruna.monteiro@gmail.com,Setúbal,582,226,130,10.49,Pré-Pago
+CUST0590,Edgar Leal,31,male,937619925,edgar.leal@gmail.com,Faro,103,824,250,87.41,Pré-Pago
+CUST0591,William Nascimento,23,male,987490324,william.nascimento@gmail.com,Porto,248,342,180,30.57,Pós-Pago
+CUST0592,Gil Castro,66,male,936450861,gil.castro@gmail.com,Leiria,651,172,40,38.86,Pós-Pago
+CUST0593,Paulo Cruz Baptista,18,male,980828710,paulo.cruz.baptista@gmail.com,Aveiro,240,823,200,52.75,Pós-Pago
+CUST0594,Paulo Vicente,48,male,988786439,paulo.vicente@gmail.com,Porto,402,229,120,48.72,Pós-Pago
+CUST0595,Teresa Correia Oliveira,27,female,992861016,teresa.correia.oliveira@gmail.com,Braga,212,481,220,87.66,Pós-Pago
+CUST0596,Débora Lara Lopes,27,female,992474715,debora.lara.lopes@gmail.com,Porto,103,714,220,24.73,Pré-Pago
+CUST0597,Raquel Neves,62,male,942020689,raquel.neves@gmail.com,Faro,928,85,40,30.13,Empresarial
+CUST0598,Bruna Freitas,46,female,928972822,bruna.freitas@gmail.com,Setúbal,249,168,140,75.61,Empresarial
+CUST0599,Rúben Nunes,45,male,961500679,ruben.nunes@gmail.com,Setúbal,276,274,60,63.53,Empresarial
+CUST0600,Margarida Pinto,34,female,996605343,margarida.pinto@gmail.com,Braga,252,501,180,28.36,Pós-Pago
+CUST0601,Santiago Borges,31,male,928830282,santiago.borges@gmail.com,Braga,362,151,110,102.62,Empresarial
+CUST0602,Ângela Araújo,55,female,917195581,angela.araujo@gmail.com,Aveiro,865,132,10,63.31,Pré-Pago
+CUST0603,Raquel da Barros,45,male,961532114,raquel.da.barros@gmail.com,Leiria,333,263,140,85.32,Pós-Pago
+CUST0604,Ivo Gomes,33,male,969572772,ivo.gomes@gmail.com,Leiria,221,356,60,19.09,Pré-Pago
+CUST0605,Débora Jesus,74,female,939598969,debora.jesus@gmail.com,Faro,794,51,20,40.23,Empresarial
+CUST0606,Valentina Miranda,31,female,948744673,valentina.miranda@gmail.com,Braga,202,958,250,60.31,Empresarial
+CUST0607,Lourenço Torres,25,male,976479831,lourenco.torres@gmail.com,Porto,203,946,190,22.56,Empresarial
+CUST0608,Valentim Pinho Cruz,18,male,959239353,valentim.pinho.cruz@gmail.com,Lisboa,120,936,250,89.09,Empresarial
+CUST0609,Juliana Cunha,55,female,939332201,juliana.cunha@gmail.com,Setúbal,983,92,40,90.96,Empresarial
+CUST0610,Daniel de Borges,56,male,943223132,daniel.de.borges@gmail.com,Faro,606,187,20,59.47,Pós-Pago
+CUST0611,Tatiana Esteves,58,female,921674661,tatiana.esteves@gmail.com,Leiria,769,181,40,95.32,Pré-Pago
+CUST0612,Tomé Barros,30,male,938169370,tome.barros@gmail.com,Aveiro,93,564,230,77.13,Pós-Pago
+CUST0613,Lucas Paiva,47,male,932277675,lucas.paiva@gmail.com,Braga,581,177,70,99.49,Pré-Pago
+CUST0614,Gaspar Leite,18,male,986514083,gaspar.leite@gmail.com,Aveiro,270,481,180,40.92,Empresarial
+CUST0615,Valentim Nunes,27,male,932599227,valentim.nunes@gmail.com,Aveiro,278,705,230,42.19,Empresarial
+CUST0616,Paulo de Baptista,57,male,945882178,paulo.de.baptista@gmail.com,Porto,641,187,50,115.9,Pós-Pago
+CUST0617,Sofia Loureiro,27,female,917957216,sofia.loureiro@gmail.com,Faro,182,301,210,23.96,Pré-Pago
+CUST0618,Alícia Cruz Carvalho,35,female,943511112,alicia.cruz.carvalho@gmail.com,Braga,154,618,230,45.43,Pré-Pago
+CUST0619,Samuel Barbosa,64,male,962707402,samuel.barbosa@gmail.com,Leiria,745,163,50,73.52,Pós-Pago
+CUST0620,Martim Reis,47,male,994263610,martim.reis@gmail.com,Setúbal,362,369,130,59.72,Empresarial
+CUST0621,Carminho Machado,18,male,922494970,carminho.machado@gmail.com,Setúbal,64,525,170,92.48,Empresarial
+CUST0622,Alice Marques,28,male,959535894,alice.marques@gmail.com,Leiria,140,807,160,46.0,Pré-Pago
+CUST0623,Mia Anita Vaz,30,female,922501261,mia.anita.vaz@gmail.com,Leiria,275,407,210,83.06,Pós-Pago
+CUST0624,Sandro Batista,37,male,918500100,sandro.batista@gmail.com,Setúbal,276,368,70,116.49,Pré-Pago
+CUST0625,Alexandra do Pacheco,41,female,976399516,alexandra.do.pacheco@gmail.com,Faro,221,263,110,101.12,Pós-Pago
+CUST0626,Inês Mendes,24,male,983458776,ines.mendes@gmail.com,Braga,134,373,190,103.77,Pós-Pago
+CUST0627,Matilde Macedo,60,male,916497381,matilde.macedo@gmail.com,Lisboa,650,68,40,78.88,Pós-Pago
+CUST0628,Lara Rodrigues,40,female,912185246,lara.rodrigues@gmail.com,Porto,311,329,60,58.54,Pré-Pago
+CUST0629,Tomás da Valente,31,male,967418250,tomas.da.valente@gmail.com,Coimbra,224,979,230,110.03,Empresarial
+CUST0630,João Alves Castro,42,male,950515702,joao.alves.castro@gmail.com,Braga,591,178,90,20.27,Pós-Pago
+CUST0631,Artur Lourenço,34,male,943606680,artur.lourenco@gmail.com,Porto,555,337,120,83.1,Empresarial
+CUST0632,Bianca Mendes,39,female,932216400,bianca.mendes@gmail.com,Lisboa,541,189,130,78.82,Empresarial
+CUST0633,Rafael Torres,24,male,941426254,rafael.torres@gmail.com,Setúbal,174,603,210,20.03,Pré-Pago
+CUST0634,Sérgio Sousa,19,male,910145801,sergio.sousa@gmail.com,Coimbra,85,539,160,18.57,Empresarial
+CUST0635,Luísa Rocha,73,female,940358823,luisa.rocha@gmail.com,Leiria,919,163,10,10.89,Pós-Pago
+CUST0636,Daniel Antunes,28,male,926185823,daniel.antunes@gmail.com,Setúbal,231,799,230,24.54,Pré-Pago
+CUST0637,Emma Carvalho,67,female,940728728,emma.carvalho@gmail.com,Setúbal,500,79,30,90.38,Pré-Pago
+CUST0638,Rúben Cruz,38,male,923851475,ruben.cruz@gmail.com,Aveiro,461,352,120,106.91,Pré-Pago
+CUST0639,Iara Guerreiro,22,female,961367949,iara.guerreiro@gmail.com,Braga,297,670,210,119.22,Pré-Pago
+CUST0640,Laura Lima,27,female,919182050,laura.lima@gmail.com,Lisboa,213,942,200,81.5,Pós-Pago
+CUST0641,Xavier Torres,27,male,957135617,xavier.torres@gmail.com,Coimbra,228,797,210,92.31,Pós-Pago
+CUST0642,Leandro Loureiro,33,male,992688322,leandro.loureiro@gmail.com,Leiria,209,311,70,19.54,Pré-Pago
+CUST0643,Diana Pereira,18,female,928792245,diana.pereira@gmail.com,Porto,75,981,190,90.3,Pós-Pago
+CUST0644,Helena Reis Valente,75,female,967631581,helena.reis.valente@gmail.com,Aveiro,981,78,50,37.26,Empresarial
+CUST0645,Luana Costa,19,female,921307671,luana.costa@gmail.com,Coimbra,263,838,180,76.11,Empresarial
+CUST0646,Gustavo Borges,33,male,991549765,gustavo.borges@gmail.com,Faro,137,559,250,113.54,Pré-Pago
+CUST0647,Mélanie Soares,46,male,998369672,melanie.soares@gmail.com,Faro,216,236,70,66.95,Empresarial
+CUST0648,Catarina Soares,36,female,935319707,catarina.soares@gmail.com,Setúbal,359,152,100,81.08,Pré-Pago
+CUST0649,Alexandre Vieira,50,male,976422705,alexandre.vieira@gmail.com,Setúbal,888,200,40,36.52,Empresarial
+CUST0650,Petra Henriques,30,female,989715904,petra.henriques@gmail.com,Porto,228,716,170,107.76,Pré-Pago
+CUST0651,Erica do Pinho,69,female,958465780,erica.do.pinho@gmail.com,Aveiro,851,106,50,52.55,Empresarial
+CUST0652,Diego Moreira,26,male,966487347,diego.moreira@gmail.com,Aveiro,249,329,180,85.12,Pós-Pago
+CUST0653,Alice Lourenço,25,male,919796799,alice.lourenco@gmail.com,Lisboa,276,304,190,17.43,Pós-Pago
+CUST0654,Rafaela Mendes,60,female,938956527,rafaela.mendes@gmail.com,Lisboa,821,68,20,114.35,Pós-Pago
+CUST0655,Isabel Emília Pacheco,22,male,977996124,isabel.emilia.pacheco@gmail.com,Faro,228,552,210,88.39,Pós-Pago
+CUST0656,Bianca Correia,56,female,966851305,bianca.correia@gmail.com,Setúbal,667,120,30,80.46,Empresarial
+CUST0657,Edgar Jesus,35,male,992684436,edgar.jesus@gmail.com,Braga,474,176,90,19.2,Pré-Pago
+CUST0658,Carlota Soares,71,female,978626154,carlota.soares@gmail.com,Coimbra,522,174,50,69.0,Pós-Pago
+CUST0659,Kelly Patrícia Freitas,33,male,988710263,kelly.patricia.freitas@gmail.com,Porto,295,364,100,86.85,Empresarial
+CUST0660,Enzo do Macedo,43,male,942029368,enzo.do.macedo@gmail.com,Lisboa,408,199,80,19.48,Pós-Pago
+CUST0661,Luciana Neto,18,female,925567455,luciana.neto@gmail.com,Leiria,115,937,200,76.97,Pós-Pago
+CUST0662,Diego do Loureiro,58,male,999399687,diego.do.loureiro@gmail.com,Braga,679,95,40,11.39,Pré-Pago
+CUST0663,Lara Figueiredo,26,female,911523452,lara.figueiredo@gmail.com,Braga,65,381,160,114.83,Empresarial
+CUST0664,Leonor de Pereira,42,male,979420474,leonor.de.pereira@gmail.com,Faro,410,296,60,50.91,Empresarial
+CUST0665,Violeta Santos,19,female,946072958,violeta.santos@gmail.com,Porto,216,627,250,108.99,Pós-Pago
+CUST0666,Iara Campos,26,female,967622968,iara.campos@gmail.com,Faro,295,346,170,17.03,Empresarial
+CUST0667,Luna Marques,25,female,987396877,luna.marques@gmail.com,Porto,127,400,160,60.07,Pós-Pago
+CUST0668,Marta Alves Esteves,34,female,917440911,marta.alves.esteves@gmail.com,Leiria,126,323,190,28.36,Pré-Pago
+CUST0669,Marcos Correia,21,male,944241100,marcos.correia@gmail.com,Porto,293,311,190,84.15,Pré-Pago
+CUST0670,David Marques,61,male,940655922,david.marques@gmail.com,Lisboa,838,199,20,104.46,Pré-Pago
+CUST0671,Vicente Tavares,24,male,942823140,vicente.tavares@gmail.com,Lisboa,89,1000,160,50.04,Pré-Pago
+CUST0672,Noah Nascimento,35,male,934019729,noah.nascimento@gmail.com,Lisboa,218,865,180,98.34,Empresarial
+CUST0673,Fernando Ferreira Carneiro,38,male,998007006,fernando.ferreira.carneiro@gmail.com,Setúbal,266,313,80,45.4,Pós-Pago
+CUST0674,Leonardo Santos,51,male,952940967,leonardo.santos@gmail.com,Faro,770,122,30,72.87,Pré-Pago
+CUST0675,Hugo Borges,51,male,977382794,hugo.borges@gmail.com,Lisboa,482,216,60,34.55,Empresarial
+CUST0676,Juliana Valente,69,female,916164431,juliana.valente@gmail.com,Setúbal,596,80,30,106.47,Pós-Pago
+CUST0677,Dinis Moreira,65,male,951701149,dinis.moreira@gmail.com,Aveiro,716,120,30,70.84,Pré-Pago
+CUST0678,Cláudio Castro,44,male,959515518,claudio.castro@gmail.com,Coimbra,515,175,100,72.02,Pós-Pago
+CUST0679,Bruna do Leal,44,female,993579731,bruna.do.leal@gmail.com,Coimbra,369,235,150,50.51,Pós-Pago
+CUST0680,António Silva,72,male,936229153,antonio.silva@gmail.com,Coimbra,876,167,50,10.7,Pós-Pago
+CUST0681,Rafael Cardoso,32,male,913209180,rafael.cardoso@gmail.com,Coimbra,121,860,180,48.11,Empresarial
+CUST0682,Nuno Rodrigues,54,male,911287794,nuno.rodrigues@gmail.com,Aveiro,799,166,10,93.48,Pós-Pago
+CUST0683,Adriana Lourenço,48,female,951273379,adriana.lourenco@gmail.com,Porto,440,335,70,68.28,Pré-Pago
+CUST0684,Iara Cardoso,66,female,966346728,iara.cardoso@gmail.com,Leiria,856,61,20,116.98,Pré-Pago
+CUST0685,Leonor Cardoso,57,male,947557512,leonor.cardoso@gmail.com,Porto,819,111,20,111.34,Empresarial
+CUST0686,Lúcia Teixeira Pires,47,female,965439545,lucia.teixeira.pires@gmail.com,Aveiro,533,112,150,117.2,Pré-Pago
+CUST0687,Kyara Lima,30,female,987949714,kyara.lima@gmail.com,Porto,100,830,170,24.69,Pós-Pago
+CUST0688,Rui Oliveira Soares,34,male,920043577,rui.oliveira.soares@gmail.com,Lisboa,434,263,140,82.87,Pré-Pago
+CUST0689,Noa Matias,50,female,941778964,noa.matias@gmail.com,Faro,395,342,90,103.6,Pós-Pago
+CUST0690,Kelly Freitas,33,male,953788744,kelly.freitas@gmail.com,Aveiro,501,181,150,39.92,Pré-Pago
+CUST0691,Júlia Moura Vaz,19,female,937207628,julia.moura.vaz@gmail.com,Braga,251,861,250,94.72,Pré-Pago
+CUST0692,Francisca Camila Reis,33,female,930858851,francisca.camila.reis@gmail.com,Porto,308,367,60,59.45,Pós-Pago
+CUST0693,Flor Valente,25,male,964561191,flor.valente@gmail.com,Porto,172,416,180,49.41,Pré-Pago
+CUST0694,Ariana Coelho,33,female,970655283,ariana.coelho@gmail.com,Faro,589,346,150,39.15,Pré-Pago
+CUST0695,Lorena Miranda,27,female,922136086,lorena.miranda@gmail.com,Braga,176,693,220,43.46,Empresarial
+CUST0696,Ricardo de Leite,41,male,990973889,ricardo.de.leite@gmail.com,Lisboa,473,373,70,101.95,Pós-Pago
+CUST0697,Juliana Vicente,20,female,929907683,juliana.vicente@gmail.com,Porto,279,944,230,37.3,Pós-Pago
+CUST0698,Nádia Henriques,25,female,963183031,nadia.henriques@gmail.com,Lisboa,150,543,220,42.87,Pré-Pago
+CUST0699,Mariana Loureiro,33,female,914171767,mariana.loureiro@gmail.com,Setúbal,438,213,150,71.15,Empresarial
+CUST0700,Carlota Mendes,55,female,943534652,carlota.mendes@gmail.com,Porto,401,166,150,21.21,Pré-Pago
+CUST0701,Juliana Isabela Garcia,51,female,926301180,juliana.isabela.garcia@gmail.com,Lisboa,919,144,20,101.34,Pré-Pago
+CUST0702,Luísa Sofia Barros,41,female,927544302,luisa.sofia.barros@gmail.com,Coimbra,586,354,130,50.95,Empresarial
+CUST0703,Anita Campos,32,female,996528158,anita.campos@gmail.com,Porto,79,678,190,74.47,Pré-Pago
+CUST0704,Érica Brito,36,female,912925970,erica.brito@gmail.com,Porto,266,380,70,109.27,Pós-Pago
+CUST0705,Jorge Araújo Lima,50,male,927286109,jorge.araujo.lima@gmail.com,Porto,259,197,110,23.48,Pós-Pago
+CUST0706,Cristiano Pacheco,29,male,916796477,cristiano.pacheco@gmail.com,Braga,90,328,190,57.65,Empresarial
+CUST0707,Juliana Castro,68,female,963015826,juliana.castro@gmail.com,Leiria,794,137,10,52.1,Pós-Pago
+CUST0708,Dinis Almeida,38,male,933193791,dinis.almeida@gmail.com,Aveiro,341,389,70,109.91,Pós-Pago
+CUST0709,Cláudio Castro,62,male,947561442,claudio.castro@gmail.com,Leiria,885,136,50,13.81,Empresarial
+CUST0710,Alice Reis Melo,33,male,992809273,alice.reis.melo@gmail.com,Coimbra,214,363,210,42.46,Pós-Pago
+CUST0711,Carlos do Matos,63,male,983912181,carlos.do.matos@gmail.com,Leiria,511,65,20,19.65,Pós-Pago
+CUST0712,Larissa Alves,44,female,928419506,larissa.alves@gmail.com,Setúbal,503,194,70,80.69,Empresarial
+CUST0713,Ema Campos,38,female,943440045,ema.campos@gmail.com,Lisboa,257,227,130,96.01,Pós-Pago
+CUST0714,Victória da Brito,54,female,974382155,victoria.da.brito@gmail.com,Leiria,394,281,120,110.39,Empresarial
+CUST0715,Adriana Fonseca,31,female,953165014,adriana.fonseca@gmail.com,Setúbal,600,188,90,29.78,Pós-Pago
+CUST0716,Lucas Teixeira,68,male,990143600,lucas.teixeira@gmail.com,Coimbra,766,173,10,108.53,Pós-Pago
+CUST0717,Inês Pereira,29,male,917863981,ines.pereira@gmail.com,Leiria,131,457,170,49.32,Empresarial
+CUST0718,Nicole Simões,68,male,941240803,nicole.simoes@gmail.com,Braga,980,79,40,37.26,Pré-Pago
+CUST0719,Filipa Carvalho,35,female,945772648,filipa.carvalho@gmail.com,Lisboa,189,644,250,119.6,Pré-Pago
+CUST0720,Beatriz Marques,44,male,987268086,beatriz.marques@gmail.com,Setúbal,538,223,120,112.87,Pré-Pago
+CUST0721,Renata Batista,29,female,933635791,renata.batista@gmail.com,Coimbra,208,796,190,44.98,Empresarial
+CUST0722,Mélanie Abreu,35,male,958155056,melanie.abreu@gmail.com,Lisboa,250,959,230,87.06,Empresarial
+CUST0723,Kelly Paiva,21,male,985645982,kelly.paiva@gmail.com,Braga,217,537,190,114.32,Pós-Pago
+CUST0724,Nádia Santos,36,female,982762732,nadia.santos@gmail.com,Faro,586,247,60,63.95,Pré-Pago
+CUST0725,Gustavo Abreu Correia,19,male,917538738,gustavo.abreu.correia@gmail.com,Coimbra,255,613,200,34.07,Empresarial
+CUST0726,Martim Azevedo,54,male,974154596,martim.azevedo@gmail.com,Lisboa,451,165,110,110.97,Pré-Pago
+CUST0727,Fernando Azevedo,34,male,927514010,fernando.azevedo@gmail.com,Aveiro,181,976,230,29.52,Pós-Pago
+CUST0728,Rafaela Pinto,56,female,917993466,rafaela.pinto@gmail.com,Lisboa,717,172,50,74.53,Pré-Pago
+CUST0729,Ismael Nunes,51,male,924887509,ismael.nunes@gmail.com,Aveiro,978,151,30,51.09,Empresarial
+CUST0730,Tomás Ramos,41,male,963095937,tomas.ramos@gmail.com,Porto,513,278,110,43.19,Pré-Pago
+CUST0731,Juliana Martins,29,female,931139813,juliana.martins@gmail.com,Setúbal,54,352,210,115.67,Empresarial
+CUST0732,Emília Pires,26,female,952585056,emilia.pires@gmail.com,Braga,122,973,230,116.56,Empresarial
+CUST0733,Irina Gaspar,45,female,992370625,irina.gaspar@gmail.com,Aveiro,387,202,80,83.21,Pré-Pago
+CUST0734,Adriana Guerreiro,22,female,960785855,adriana.guerreiro@gmail.com,Faro,131,610,240,85.73,Pré-Pago
+CUST0735,Nádia Torres,24,female,933851602,nadia.torres@gmail.com,Lisboa,123,743,230,114.36,Pós-Pago
+CUST0736,Gonçalo da Cardoso,41,male,986166246,goncalo.da.cardoso@gmail.com,Lisboa,568,310,60,76.26,Empresarial
+CUST0737,Vasco Magalhães Barros,22,male,939648058,vasco.magalhaes.barros@gmail.com,Porto,102,498,160,25.47,Empresarial
+CUST0738,Mia Alves,37,female,920443030,mia.alves@gmail.com,Coimbra,534,104,120,118.06,Pré-Pago
+CUST0739,Emília Andrade,30,female,995387542,emilia.andrade@gmail.com,Porto,116,426,230,83.7,Empresarial
+CUST0740,Emília Freitas,52,female,955063530,emilia.freitas@gmail.com,Leiria,655,88,10,39.17,Pré-Pago
+CUST0741,Constança Nunes,48,female,919099261,constanca.nunes@gmail.com,Aveiro,266,152,90,96.57,Empresarial
+CUST0742,David Cunha,37,male,910171954,david.cunha@gmail.com,Lisboa,514,146,130,58.2,Pós-Pago
+CUST0743,Luciana Salomé Neto,30,female,932325567,luciana.salome.neto@gmail.com,Setúbal,281,986,160,106.99,Pós-Pago
+CUST0744,Cristiano do Cunha,67,male,983286096,cristiano.do.cunha@gmail.com,Setúbal,537,81,40,101.17,Empresarial
+CUST0745,Ismael Antunes,42,male,997371655,ismael.antunes@gmail.com,Coimbra,250,320,60,59.64,Pré-Pago
+CUST0746,Alícia Lourenço,45,female,949581964,alicia.lourenco@gmail.com,Lisboa,435,372,110,38.72,Pré-Pago
+CUST0747,Soraia Tatiana Henriques,45,female,919959009,soraia.tatiana.henriques@gmail.com,Aveiro,566,144,60,107.67,Pré-Pago
+CUST0748,Andreia Barbosa,43,female,920066654,andreia.barbosa@gmail.com,Porto,257,289,110,75.34,Empresarial
+CUST0749,Luciana Soares,48,female,974791834,luciana.soares@gmail.com,Lisboa,490,382,140,113.67,Pré-Pago
+CUST0750,Xavier Cardoso,55,male,991512791,xavier.cardoso@gmail.com,Setúbal,389,225,60,15.89,Pós-Pago
+CUST0751,Iara Rodrigues Costa,30,female,937588517,iara.rodrigues.costa@gmail.com,Coimbra,214,370,140,86.69,Empresarial
+CUST0752,Camila da Garcia,21,female,982494408,camila.da.garcia@gmail.com,Faro,242,666,220,40.97,Pré-Pago
+CUST0753,Micael da Lima,43,male,922873617,micael.da.lima@gmail.com,Lisboa,305,109,130,72.89,Pós-Pago
+CUST0754,Erika da Cruz,47,female,930614492,erika.da.cruz@gmail.com,Lisboa,417,126,120,10.42,Pré-Pago
+CUST0755,Noah Lopes,47,male,949533757,noah.lopes@gmail.com,Leiria,322,249,70,20.67,Pré-Pago
+CUST0756,Tomé Henriques,72,male,932928708,tome.henriques@gmail.com,Faro,920,98,30,62.09,Pré-Pago
+CUST0757,Eduardo Morais,19,male,951386492,eduardo.morais@gmail.com,Setúbal,87,315,160,63.8,Empresarial
+CUST0758,Benjamim Valente,23,male,945568288,benjamim.valente@gmail.com,Porto,61,535,210,69.85,Pré-Pago
+CUST0759,Cláudio Antunes,38,male,959797531,claudio.antunes@gmail.com,Setúbal,555,349,120,30.52,Pré-Pago
+CUST0760,Leandro da Borges,45,male,945338986,leandro.da.borges@gmail.com,Leiria,470,112,150,38.97,Pós-Pago
+CUST0761,Brian Henriques,73,male,985731895,brian.henriques@gmail.com,Lisboa,591,159,50,92.75,Empresarial
+CUST0762,Afonso Maia,31,male,922979206,afonso.maia@gmail.com,Porto,290,431,220,47.82,Empresarial
+CUST0763,Sérgio Sousa Fernandes,23,male,965564347,sergio.sousa.fernandes@gmail.com,Coimbra,220,961,180,16.71,Pós-Pago
+CUST0764,Artur Nunes,32,male,980139805,artur.nunes@gmail.com,Setúbal,170,740,180,85.58,Pós-Pago
+CUST0765,Mia Eva Leal,30,female,986868410,mia.eva.leal@gmail.com,Coimbra,256,950,160,42.87,Pós-Pago
+CUST0766,Jaime Nunes,72,male,914661179,jaime.nunes@gmail.com,Braga,722,113,40,114.42,Pós-Pago
+CUST0767,Lisandro Monteiro,36,male,933203422,lisandro.monteiro@gmail.com,Braga,324,399,70,98.93,Pré-Pago
+CUST0768,Francisco Figueiredo,58,male,915727862,francisco.figueiredo@gmail.com,Setúbal,580,96,30,118.71,Pós-Pago
+CUST0769,Francisco Amorim,31,male,937101146,francisco.amorim@gmail.com,Braga,115,972,200,38.37,Empresarial
+CUST0770,Gil Pinho,45,male,918994192,gil.pinho@gmail.com,Porto,578,185,130,71.2,Empresarial
+CUST0771,Fabiana Ribeiro,31,female,953771998,fabiana.ribeiro@gmail.com,Faro,170,526,170,60.4,Pré-Pago
+CUST0772,Ismael de Mendes,66,male,993625419,ismael.de.mendes@gmail.com,Setúbal,973,142,40,55.59,Pré-Pago
+CUST0773,Renata Costa,67,female,986046949,renata.costa@gmail.com,Porto,534,56,40,71.9,Pré-Pago
+CUST0774,Lara Paiva Mota,36,female,948398732,lara.paiva.mota@gmail.com,Aveiro,207,261,140,39.06,Empresarial
+CUST0775,Marco Freitas,59,male,975174087,marco.freitas@gmail.com,Leiria,522,74,20,28.94,Pós-Pago
+CUST0776,Débora Barros,62,female,929307578,debora.barros@gmail.com,Setúbal,584,65,20,53.54,Pós-Pago
+CUST0777,Ariana Moura,31,female,941887353,ariana.moura@gmail.com,Lisboa,156,556,240,62.27,Pós-Pago
+CUST0778,Mafalda Baptista Domingues,42,female,959988144,mafalda.baptista.domingues@gmail.com,Lisboa,233,333,110,99.91,Pós-Pago
+CUST0779,Henrique Andrade,28,male,951734908,henrique.andrade@gmail.com,Faro,125,318,160,104.41,Empresarial
+CUST0780,Lorena Fernandes,54,female,923182514,lorena.fernandes@gmail.com,Coimbra,642,130,50,43.05,Empresarial
+CUST0781,Ivo Borges,38,male,969473299,ivo.borges@gmail.com,Aveiro,257,313,90,90.17,Empresarial
+CUST0782,Xavier Miranda Rodrigues,51,male,996644900,xavier.miranda.rodrigues@gmail.com,Porto,359,159,70,58.59,Pós-Pago
+CUST0783,Márcio Baptista,67,male,975023164,marcio.baptista@gmail.com,Aveiro,655,88,20,66.68,Pré-Pago
+CUST0784,Micael Andrade,35,male,918806960,micael.andrade@gmail.com,Faro,172,546,230,65.75,Pré-Pago
+CUST0785,Emanuel Monteiro,43,male,980368504,emanuel.monteiro@gmail.com,Lisboa,492,146,60,31.2,Pré-Pago
+CUST0786,Manuel Barros,61,male,917734634,manuel.barros@gmail.com,Coimbra,715,61,20,60.21,Pós-Pago
+CUST0787,Mara Nogueira,45,female,936724061,mara.nogueira@gmail.com,Faro,567,133,120,100.59,Empresarial
+CUST0788,Rúben Brito,21,male,963276690,ruben.brito@gmail.com,Porto,77,974,220,13.36,Pós-Pago
+CUST0789,Nair Pereira,41,male,975603845,nair.pereira@gmail.com,Leiria,240,374,60,115.66,Pós-Pago
+CUST0790,Duarte Simões,49,male,988769733,duarte.simoes@gmail.com,Aveiro,342,119,120,27.99,Pós-Pago
+CUST0791,Eva Pereira,63,female,922132198,eva.pereira@gmail.com,Faro,817,173,10,52.52,Pré-Pago
+CUST0792,Salomé Amaral,36,male,986807176,salome.amaral@gmail.com,Coimbra,352,109,80,81.21,Empresarial
+CUST0793,Ricardo do Nunes,20,male,937746963,ricardo.do.nunes@gmail.com,Faro,289,810,210,55.05,Pré-Pago
+CUST0794,Lisandro Fernandes,73,male,911194267,lisandro.fernandes@gmail.com,Leiria,587,157,50,81.21,Empresarial
+CUST0795,Miriam Pacheco,32,male,911135982,miriam.pacheco@gmail.com,Coimbra,428,383,90,76.92,Pós-Pago
+CUST0796,Sara Henriques,34,female,996267144,sara.henriques@gmail.com,Faro,555,307,140,108.5,Pós-Pago
+CUST0797,Simão Reis,32,male,971605671,simao.reis@gmail.com,Faro,248,116,70,61.34,Empresarial
+CUST0798,Gabriel Pinheiro,33,male,979878835,gabriel.pinheiro@gmail.com,Setúbal,252,540,190,21.25,Empresarial
+CUST0799,Santiago Matos,28,male,998899843,santiago.matos@gmail.com,Aveiro,192,910,180,81.21,Empresarial
+CUST0800,David de Garcia,20,male,947940248,david.de.garcia@gmail.com,Faro,260,318,220,21.89,Pré-Pago
+CUST0801,Mariana Matias,28,female,955135227,mariana.matias@gmail.com,Faro,66,320,210,45.77,Pós-Pago
+CUST0802,Amélia Castro,46,female,945050544,amelia.castro@gmail.com,Faro,332,116,70,26.49,Pré-Pago
+CUST0803,Brian Andrade,35,male,917620167,brian.andrade@gmail.com,Setúbal,62,928,220,45.15,Pré-Pago
+CUST0804,Tiago Ferreira,48,male,913416548,tiago.ferreira@gmail.com,Leiria,259,288,100,38.54,Pós-Pago
+CUST0805,Joel Reis,18,male,964304344,joel.reis@gmail.com,Setúbal,139,819,240,13.89,Empresarial
+CUST0806,Leandro Pires,52,male,986778235,leandro.pires@gmail.com,Coimbra,331,209,110,89.92,Pré-Pago
+CUST0807,Caetana Machado,29,female,981757508,caetana.machado@gmail.com,Leiria,144,948,220,49.43,Pós-Pago
+CUST0808,Noah Marques Carneiro,31,male,932815223,noah.marques.carneiro@gmail.com,Braga,356,272,100,20.74,Pré-Pago
+CUST0809,Valentina Esteves,22,female,944715663,valentina.esteves@gmail.com,Braga,93,939,220,108.96,Empresarial
+CUST0810,Ângela Neto,39,female,921985619,angela.neto@gmail.com,Coimbra,422,162,120,34.57,Pós-Pago
+CUST0811,Valentim da Antunes,49,male,966434872,valentim.da.antunes@gmail.com,Aveiro,529,241,120,38.66,Pós-Pago
+CUST0812,Diana Santos,33,female,972244897,diana.santos@gmail.com,Porto,163,880,160,15.9,Empresarial
+CUST0813,Petra do Leite,34,female,988326059,petra.do.leite@gmail.com,Porto,274,620,160,107.84,Empresarial
+CUST0814,Sebastião Pinho,25,male,926081422,sebastiao.pinho@gmail.com,Setúbal,209,368,170,42.82,Pré-Pago
+CUST0815,Isabela Oliveira,53,female,930237141,isabela.oliveira@gmail.com,Braga,367,147,70,47.69,Empresarial
+CUST0816,José Pacheco,38,male,971414198,jose.pacheco@gmail.com,Braga,252,255,110,104.86,Pré-Pago
+CUST0817,Juliana Garcia,41,female,920846331,juliana.garcia@gmail.com,Leiria,520,352,110,79.41,Pré-Pago
+CUST0818,Rafael Moreira Pinho,50,male,952065724,rafael.moreira.pinho@gmail.com,Lisboa,801,70,10,59.73,Pré-Pago
+CUST0819,João Ramos,27,male,932629881,joao.ramos@gmail.com,Braga,274,661,160,96.37,Pré-Pago
+CUST0820,Filipa de Teixeira,19,female,927368573,filipa.de.teixeira@gmail.com,Setúbal,240,525,210,57.24,Pós-Pago
+CUST0821,Ricardo da Miranda,55,male,974075580,ricardo.da.miranda@gmail.com,Setúbal,852,53,10,14.15,Pré-Pago
+CUST0822,João Simões,55,male,960076822,joao.simoes@gmail.com,Lisboa,461,209,110,93.25,Empresarial
+CUST0823,Rita Pinto Oliveira,29,female,935578773,rita.pinto.oliveira@gmail.com,Lisboa,86,487,220,10.45,Empresarial
+CUST0824,Amélia Isabela Carvalho,19,female,943396474,amelia.isabela.carvalho@gmail.com,Coimbra,91,664,230,106.47,Pós-Pago
+CUST0825,Kevin Batista Jesus,48,male,927304799,kevin.batista.jesus@gmail.com,Porto,239,266,130,65.37,Pós-Pago
+CUST0826,Gonçalo Alves,58,male,932417070,goncalo.alves@gmail.com,Porto,562,162,20,42.8,Pós-Pago
+CUST0827,Juliana Leal,53,female,971193393,juliana.leal@gmail.com,Aveiro,316,126,140,107.68,Pré-Pago
+CUST0828,Tomé Pinho,43,male,956000822,tome.pinho@gmail.com,Leiria,528,167,120,92.51,Pré-Pago
+CUST0829,Duarte Nascimento Pinto,48,male,964142310,duarte.nascimento.pinto@gmail.com,Lisboa,494,242,80,34.68,Pré-Pago
+CUST0830,Artur Torres,29,male,938345472,artur.torres@gmail.com,Lisboa,141,756,190,65.51,Pré-Pago
+CUST0831,Gonçalo Leite,45,male,959203071,goncalo.leite@gmail.com,Lisboa,306,273,130,106.42,Pós-Pago
+CUST0832,Luca Garcia,20,female,981770706,luca.garcia@gmail.com,Lisboa,208,591,200,119.41,Empresarial
+CUST0833,Flor da Tavares,72,male,924510741,flor.da.tavares@gmail.com,Lisboa,608,102,20,85.87,Pós-Pago
+CUST0834,Noah Garcia,51,male,969634854,noah.garcia@gmail.com,Setúbal,782,172,40,70.2,Pós-Pago
+CUST0835,Ana Luna Marques,26,female,930552371,ana.luna.marques@gmail.com,Coimbra,165,382,230,85.43,Pré-Pago
+CUST0836,Vasco Ferreira,24,male,950415166,vasco.ferreira@gmail.com,Setúbal,173,423,220,21.11,Empresarial
+CUST0837,Nicole Correia,36,male,946235719,nicole.correia@gmail.com,Braga,377,150,140,101.37,Pré-Pago
+CUST0838,Caetana Lopes,32,female,978663747,caetana.lopes@gmail.com,Porto,334,118,100,22.54,Pré-Pago
+CUST0839,Maria Branco Matias,23,female,976805406,maria.branco.matias@gmail.com,Coimbra,284,354,200,31.97,Pós-Pago
+CUST0840,Francisca Paiva,39,female,980215481,francisca.paiva@gmail.com,Coimbra,520,185,120,87.38,Pós-Pago
+CUST0841,Helena Garcia,19,female,931524980,helena.garcia@gmail.com,Lisboa,85,953,180,64.6,Pré-Pago
+CUST0842,Pilar Vaz,50,male,974513622,pilar.vaz@gmail.com,Aveiro,512,348,80,10.3,Empresarial
+CUST0843,Mia Marques Azevedo,25,female,921945758,mia.marques.azevedo@gmail.com,Porto,208,701,190,83.59,Pré-Pago
+CUST0844,Vera de Anjos,21,female,922090691,vera.de.anjos@gmail.com,Porto,142,915,240,89.59,Pós-Pago
+CUST0845,Vera Machado,44,female,996481420,vera.machado@gmail.com,Coimbra,222,117,150,118.75,Pós-Pago
+CUST0846,Ana Castro,55,female,945450260,ana.castro@gmail.com,Leiria,853,74,20,20.98,Pré-Pago
+CUST0847,Carolina Esteves,55,female,915294153,carolina.esteves@gmail.com,Faro,306,259,120,98.18,Pós-Pago
+CUST0848,Emília Erica Matias,73,female,967176108,emilia.erica.matias@gmail.com,Porto,518,84,40,103.64,Pré-Pago
+CUST0849,Iara Soares,20,female,911298197,iara.soares@gmail.com,Braga,247,748,220,81.19,Pós-Pago
+CUST0850,César Brito,18,male,957986515,cesar.brito@gmail.com,Leiria,119,766,200,39.51,Empresarial
+CUST0851,Raquel Morais,52,male,922475714,raquel.morais@gmail.com,Aveiro,212,290,110,30.12,Pós-Pago
+CUST0852,Joel Neto,50,male,963720675,joel.neto@gmail.com,Leiria,523,258,90,101.93,Empresarial
+CUST0853,Renato do Silva,24,male,974188958,renato.do.silva@gmail.com,Setúbal,74,646,210,107.47,Pré-Pago
+CUST0854,Joaquim Carvalho Cruz,24,male,925174194,joaquim.carvalho.cruz@gmail.com,Braga,297,763,230,89.91,Pré-Pago
+CUST0855,Vicente de Ferreira,23,male,923920137,vicente.de.ferreira@gmail.com,Setúbal,272,933,190,63.09,Empresarial
+CUST0856,Alice Vieira,25,male,968809216,alice.vieira@gmail.com,Braga,250,402,200,51.77,Pós-Pago
+CUST0857,Beatriz Batista,25,male,992055138,beatriz.batista@gmail.com,Lisboa,71,352,220,106.79,Empresarial
+CUST0858,Alícia Rocha,32,female,927536261,alicia.rocha@gmail.com,Leiria,279,695,160,22.42,Pós-Pago
+CUST0859,Nádia Mota,62,female,969148126,nadia.mota@gmail.com,Lisboa,718,176,30,38.78,Pós-Pago
+CUST0860,Frederico Alves,34,male,911658959,frederico.alves@gmail.com,Coimbra,110,504,220,106.05,Empresarial
+CUST0861,Mélanie Carneiro,39,male,980209719,melanie.carneiro@gmail.com,Porto,565,299,140,82.79,Pré-Pago
+CUST0862,Erika Ferreira,29,female,974683506,erika.ferreira@gmail.com,Aveiro,257,797,220,84.39,Pós-Pago
+CUST0863,Vitória Valente,70,female,929952062,vitoria.valente@gmail.com,Lisboa,785,89,10,80.77,Pré-Pago
+CUST0864,Vera Pinho,25,female,977856130,vera.pinho@gmail.com,Leiria,284,649,160,105.64,Pré-Pago
+CUST0865,Ariana Branco,41,female,975987872,ariana.branco@gmail.com,Aveiro,434,254,80,46.4,Pós-Pago
+CUST0866,Núria do Vaz,30,female,916757958,nuria.do.vaz@gmail.com,Coimbra,66,860,180,80.76,Pós-Pago
+CUST0867,Leonardo Abreu,49,male,941541166,leonardo.abreu@gmail.com,Porto,361,136,150,58.86,Empresarial
+CUST0868,Anita Cruz Rodrigues,31,female,970142774,anita.cruz.rodrigues@gmail.com,Porto,264,626,160,59.18,Pré-Pago
+CUST0869,Letícia Correia Vieira,53,female,976756320,leticia.correia.vieira@gmail.com,Lisboa,762,114,40,54.38,Pré-Pago
+CUST0870,Soraia Jesus Silva,68,female,984776858,soraia.jesus.silva@gmail.com,Lisboa,835,129,30,97.1,Empresarial
+CUST0871,Francisca Teresa Faria,33,female,995568918,francisca.teresa.faria@gmail.com,Faro,65,989,170,71.86,Empresarial
+CUST0872,Maria Fernandes,37,female,971231190,maria.fernandes@gmail.com,Aveiro,552,382,120,100.78,Pré-Pago
+CUST0873,Álvaro do Teixeira,34,male,970996586,alvaro.do.teixeira@gmail.com,Aveiro,60,340,180,94.42,Empresarial
+CUST0874,Juliana Pires,19,female,973502927,juliana.pires@gmail.com,Aveiro,64,824,230,59.78,Pré-Pago
+CUST0875,Marco da Esteves,60,male,998437437,marco.da.esteves@gmail.com,Coimbra,879,81,10,47.55,Empresarial
+CUST0876,William Garcia,34,male,949189370,william.garcia@gmail.com,Aveiro,61,904,230,21.7,Pré-Pago
+CUST0877,Letícia Batista,24,female,976091781,leticia.batista@gmail.com,Braga,205,566,230,91.68,Pós-Pago
+CUST0878,Fábio do Abreu,22,male,924356130,fabio.do.abreu@gmail.com,Faro,209,805,200,31.55,Pré-Pago
+CUST0879,Valentim Oliveira,30,male,962733674,valentim.oliveira@gmail.com,Coimbra,238,183,150,100.7,Pré-Pago
+CUST0880,Isabel Rocha,19,male,955356673,isabel.rocha@gmail.com,Porto,185,640,250,55.59,Empresarial
+CUST0881,Alexandra Melo,24,female,989028889,alexandra.melo@gmail.com,Porto,159,663,250,108.09,Pós-Pago
+CUST0882,Yasmin Brito,22,male,998376561,yasmin.brito@gmail.com,Braga,228,391,160,10.48,Empresarial
+CUST0883,Rafaela Carvalho,24,female,916519170,rafaela.carvalho@gmail.com,Setúbal,121,953,190,63.12,Empresarial
+CUST0884,Kevin Neves,23,male,933783708,kevin.neves@gmail.com,Braga,280,470,240,99.68,Pré-Pago
+CUST0885,Luca Henriques,24,female,961996696,luca.henriques@gmail.com,Aveiro,162,698,170,106.95,Pós-Pago
+CUST0886,Letícia Borges,33,female,991737749,leticia.borges@gmail.com,Coimbra,411,199,90,53.77,Pós-Pago
+CUST0887,Manuel Nascimento Valente,64,male,949483304,manuel.nascimento.valente@gmail.com,Leiria,781,91,50,25.2,Empresarial
+CUST0888,Carolina Lima,27,female,978759020,carolina.lima@gmail.com,Faro,179,533,230,70.26,Pós-Pago
+CUST0889,Íris Nogueira Nogueira,40,male,984300459,iris.nogueira.nogueira@gmail.com,Coimbra,576,301,70,33.07,Empresarial
+CUST0890,Margarida Neto,29,female,949000919,margarida.neto@gmail.com,Aveiro,209,862,220,24.59,Empresarial
+CUST0891,Luciana Caetana Vieira,25,female,997253117,luciana.caetana.vieira@gmail.com,Braga,167,694,170,69.67,Empresarial
+CUST0892,Alexandre da Domingues,32,male,953269298,alexandre.da.domingues@gmail.com,Porto,92,996,250,48.75,Pós-Pago
+CUST0893,Gabriel do Tavares,21,male,988222933,gabriel.do.tavares@gmail.com,Setúbal,186,485,220,92.27,Empresarial
+CUST0894,Vicente Azevedo,59,male,948376603,vicente.azevedo@gmail.com,Setúbal,774,115,10,67.5,Pré-Pago
+CUST0895,André de Amaral,67,male,961119548,andre.de.amaral@gmail.com,Braga,997,129,20,83.73,Pré-Pago
+CUST0896,Rita Amaral,41,female,945833216,rita.amaral@gmail.com,Braga,470,111,100,85.17,Pré-Pago
+CUST0897,Ariana Martins,53,female,918325904,ariana.martins@gmail.com,Faro,247,388,70,92.9,Pré-Pago
+CUST0898,Sérgio Gonçalves,65,male,958141541,sergio.goncalves@gmail.com,Leiria,824,109,40,77.77,Empresarial
+CUST0899,Valentim Alves,20,male,985414925,valentim.alves@gmail.com,Coimbra,198,554,240,81.18,Pós-Pago
+CUST0900,Rafael Sá,33,male,941889524,rafael.sa@gmail.com,Faro,197,683,230,83.09,Pós-Pago
+CUST0901,Larissa Sá,20,female,962016704,larissa.sa@gmail.com,Setúbal,74,950,220,44.39,Empresarial
+CUST0902,Ariana Henriques,30,female,917221208,ariana.henriques@gmail.com,Lisboa,206,806,240,37.65,Empresarial
+CUST0903,Luca Anjos,20,female,969467023,luca.anjos@gmail.com,Coimbra,165,889,210,87.51,Empresarial
+CUST0904,Isabel Almeida Gomes,28,male,959357377,isabel.almeida.gomes@gmail.com,Coimbra,96,575,250,89.74,Pré-Pago
+CUST0905,Santiago Gonçalves,55,male,949483865,santiago.goncalves@gmail.com,Leiria,501,131,60,118.18,Pré-Pago
+CUST0906,Ema Vicente,34,female,935095571,ema.vicente@gmail.com,Braga,286,945,240,66.52,Pós-Pago
+CUST0907,Wilson Correia Miranda,39,male,915453834,wilson.correia.miranda@gmail.com,Setúbal,439,233,90,71.23,Pré-Pago
+CUST0908,Dinis Sousa,58,male,931599504,dinis.sousa@gmail.com,Faro,887,54,10,46.36,Empresarial
+CUST0909,Afonso da Barros,74,male,930777669,afonso.da.barros@gmail.com,Lisboa,704,140,50,112.15,Empresarial
+CUST0910,Alice Leite,26,male,916825701,alice.leite@gmail.com,Faro,154,386,160,96.89,Empresarial
+CUST0911,Lucas Neves,20,male,958061434,lucas.neves@gmail.com,Porto,165,999,230,44.96,Pré-Pago
+CUST0912,Simão Moreira,35,male,934678492,simao.moreira@gmail.com,Porto,248,994,170,27.53,Empresarial
+CUST0913,Vicente Ribeiro,71,male,982079745,vicente.ribeiro@gmail.com,Setúbal,818,89,30,48.43,Pré-Pago
+CUST0914,Wilson Fonseca,45,male,999031246,wilson.fonseca@gmail.com,Aveiro,293,241,110,49.69,Pré-Pago
+CUST0915,Flor Nogueira,33,male,992984217,flor.nogueira@gmail.com,Leiria,276,669,180,100.61,Empresarial
+CUST0916,Juliana Moreira,26,female,911181612,juliana.moreira@gmail.com,Porto,226,308,220,48.06,Pré-Pago
+CUST0917,Larissa Pinheiro,54,female,996203262,larissa.pinheiro@gmail.com,Coimbra,895,135,20,85.08,Pós-Pago
+CUST0918,Juliana Gonçalves,41,female,961186964,juliana.goncalves@gmail.com,Porto,274,251,130,38.22,Empresarial
+CUST0919,Tatiana Soares,29,female,947960665,tatiana.soares@gmail.com,Lisboa,226,900,170,100.43,Pós-Pago
+CUST0920,Valentina Simões,27,female,979029393,valentina.simoes@gmail.com,Leiria,52,411,160,14.82,Empresarial
+CUST0921,Melissa Batista Barbosa,30,female,935838575,melissa.batista.barbosa@gmail.com,Aveiro,257,528,170,19.06,Pré-Pago
+CUST0922,Mia Moreira,29,female,932467350,mia.moreira@gmail.com,Lisboa,125,395,210,17.2,Empresarial
+CUST0923,Ema Andrade,28,female,994492003,ema.andrade@gmail.com,Coimbra,216,514,220,56.66,Pré-Pago
+CUST0924,William da Lourenço,23,male,937592422,william.da.lourenco@gmail.com,Setúbal,168,962,210,99.84,Pré-Pago
+CUST0925,Jéssica Gonçalves,43,female,930636590,jessica.goncalves@gmail.com,Lisboa,416,198,150,88.86,Pré-Pago
+CUST0926,Ivan Sá,72,male,921746856,ivan.sa@gmail.com,Porto,988,134,20,29.58,Pós-Pago
+CUST0927,Camila Silva,26,female,984904794,camila.silva@gmail.com,Porto,58,697,190,100.38,Pós-Pago
+CUST0928,Yasmin Barbosa Tavares,42,male,964711545,yasmin.barbosa.tavares@gmail.com,Setúbal,465,259,150,79.32,Pós-Pago
+CUST0929,Daniela Baptista Magalhães,50,female,952467059,daniela.baptista.magalhaes@gmail.com,Lisboa,343,127,130,84.06,Empresarial
+CUST0930,Dinis Matias,33,male,910791740,dinis.matias@gmail.com,Porto,80,784,250,92.05,Pré-Pago
+CUST0931,Afonso Batista,22,male,919742790,afonso.batista@gmail.com,Aveiro,275,997,170,21.67,Empresarial
+CUST0932,Constança Sousa,40,female,950446607,constanca.sousa@gmail.com,Porto,262,268,100,94.18,Pós-Pago
+CUST0933,Gil Nogueira,31,male,961192463,gil.nogueira@gmail.com,Setúbal,265,731,220,13.39,Pré-Pago
+CUST0934,Anita Alves,65,female,981600831,anita.alves@gmail.com,Coimbra,889,106,50,92.14,Empresarial
+CUST0935,Jéssica Pinto,37,female,949591339,jessica.pinto@gmail.com,Braga,200,111,100,84.5,Empresarial
+CUST0936,Duarte Teixeira,73,male,996965116,duarte.teixeira@gmail.com,Aveiro,875,52,10,70.89,Empresarial
+CUST0937,Marta Campos,70,female,928974879,marta.campos@gmail.com,Porto,586,68,20,10.55,Empresarial
+CUST0938,Tomás Baptista,30,male,962892750,tomas.baptista@gmail.com,Porto,321,295,100,33.11,Empresarial
+CUST0939,Tiago Gomes,54,male,956150987,tiago.gomes@gmail.com,Coimbra,417,161,140,109.62,Empresarial
+CUST0940,Diogo Matias,38,male,929120002,diogo.matias@gmail.com,Braga,551,323,60,34.29,Pós-Pago
+CUST0941,Raquel Castro,49,male,936082023,raquel.castro@gmail.com,Porto,342,179,60,83.81,Empresarial
+CUST0942,Catarina Campos,35,female,917299874,catarina.campos@gmail.com,Leiria,60,592,210,70.46,Pós-Pago
+CUST0943,Bryan Sousa,55,male,919041276,bryan.sousa@gmail.com,Faro,835,54,40,31.72,Empresarial
+CUST0944,Mário Reis,38,male,975389589,mario.reis@gmail.com,Aveiro,306,102,120,24.1,Empresarial
+CUST0945,Gaspar Nogueira,48,male,941478466,gaspar.nogueira@gmail.com,Porto,269,360,100,78.15,Pré-Pago
+CUST0946,Yara Simões,35,female,952652506,yara.simoes@gmail.com,Leiria,542,280,150,46.12,Empresarial
+CUST0947,Igor Silva,18,male,951027069,igor.silva@gmail.com,Braga,183,778,190,72.35,Pós-Pago
+CUST0948,Matilde Henriques,67,male,967486445,matilde.henriques@gmail.com,Braga,651,81,10,44.45,Pré-Pago
+CUST0949,Vitória Vicente,35,female,996011893,vitoria.vicente@gmail.com,Setúbal,571,396,90,102.41,Pré-Pago
+CUST0950,Ariana Gonçalves Pinto,34,female,954501625,ariana.goncalves.pinto@gmail.com,Leiria,316,263,150,58.99,Pós-Pago
+CUST0951,Kyara Teixeira,48,female,975360192,kyara.teixeira@gmail.com,Porto,425,398,60,81.01,Pré-Pago
+CUST0952,Miriam do Figueiredo,22,male,947663633,miriam.do.figueiredo@gmail.com,Braga,179,653,180,31.61,Empresarial
+CUST0953,Bárbara Francisca Abreu,35,female,994103363,barbara.francisca.abreu@gmail.com,Porto,238,398,240,18.29,Pré-Pago
+CUST0954,Eva Gomes,26,female,978072320,eva.gomes@gmail.com,Lisboa,219,589,190,73.68,Empresarial
+CUST0955,Rodrigo Pinho,22,male,938556255,rodrigo.pinho@gmail.com,Lisboa,198,689,180,38.67,Empresarial
+CUST0956,Rúben Barros,47,male,973364719,ruben.barros@gmail.com,Braga,266,130,120,53.17,Empresarial
+CUST0957,Amélia Batista,52,female,949057246,amelia.batista@gmail.com,Braga,239,342,150,65.12,Pré-Pago
+CUST0958,Santiago Guerreiro,20,male,963255602,santiago.guerreiro@gmail.com,Aveiro,256,945,170,11.17,Pré-Pago
+CUST0959,Xavier Torres,21,male,992414513,xavier.torres@gmail.com,Braga,267,620,250,66.56,Pós-Pago
+CUST0960,Vitória do Leite,27,female,931370471,vitoria.do.leite@gmail.com,Braga,230,738,190,114.36,Empresarial
+CUST0961,Sofia Fonseca,43,female,929622504,sofia.fonseca@gmail.com,Leiria,492,331,120,14.45,Pós-Pago
+CUST0962,Salomé Azevedo,55,male,941104946,salome.azevedo@gmail.com,Porto,451,284,90,50.64,Pré-Pago
+CUST0963,Diana Branco,18,female,999736040,diana.branco@gmail.com,Coimbra,147,915,170,109.85,Pós-Pago
+CUST0964,Ema Barros Pacheco,32,female,962088975,ema.barros.pacheco@gmail.com,Leiria,330,392,150,106.97,Pré-Pago
+CUST0965,Ana Baptista,53,female,997043518,ana.baptista@gmail.com,Aveiro,638,101,40,87.41,Empresarial
+CUST0966,Sara Brito,19,female,995035920,sara.brito@gmail.com,Faro,252,532,240,38.96,Empresarial
+CUST0967,Valentim Miranda,35,male,986525600,valentim.miranda@gmail.com,Braga,371,372,130,81.9,Pós-Pago
+CUST0968,Petra Torres,24,female,988876916,petra.torres@gmail.com,Porto,253,443,170,37.67,Pré-Pago
+CUST0969,Rafaela Araújo Gaspar,41,female,979306247,rafaela.araujo.gaspar@gmail.com,Setúbal,202,198,120,99.9,Pós-Pago
+CUST0970,Carminho Coelho,19,male,975345452,carminho.coelho@gmail.com,Leiria,126,891,200,10.73,Pré-Pago
+CUST0971,Salvador Azevedo,54,male,969042204,salvador.azevedo@gmail.com,Braga,339,135,80,18.48,Empresarial
+CUST0972,Iara de Baptista,64,female,947689614,iara.de.baptista@gmail.com,Coimbra,840,189,50,30.56,Pós-Pago
+CUST0973,Pilar Mendes,22,male,990801793,pilar.mendes@gmail.com,Porto,99,644,220,35.34,Pós-Pago
+CUST0974,Mário Simões,28,male,925212062,mario.simoes@gmail.com,Leiria,103,597,220,62.67,Pré-Pago
+CUST0975,Afonso Vieira,27,male,989294612,afonso.vieira@gmail.com,Braga,253,813,210,101.67,Pré-Pago
+CUST0976,Adriana Flor Henriques,74,female,942704875,adriana.flor.henriques@gmail.com,Lisboa,513,148,50,73.08,Pré-Pago
+CUST0977,Alexandre Nunes,20,male,928082355,alexandre.nunes@gmail.com,Lisboa,199,649,190,26.16,Pré-Pago
+CUST0978,Andreia Moura,25,female,944663022,andreia.moura@gmail.com,Braga,243,424,170,115.41,Empresarial
+CUST0979,Joel Alves,18,male,985645742,joel.alves@gmail.com,Lisboa,299,783,240,90.08,Pós-Pago
+CUST0980,Laura Emília Faria,51,female,921508969,laura.emilia.faria@gmail.com,Coimbra,431,391,150,76.72,Pós-Pago
+CUST0981,Samuel Carneiro,31,male,974648438,samuel.carneiro@gmail.com,Braga,576,380,80,101.34,Empresarial
+CUST0982,Victória Violeta Fonseca,29,female,929154498,victoria.violeta.fonseca@gmail.com,Braga,189,524,200,82.56,Pós-Pago
+CUST0983,Nicole Nunes Pires,43,male,932511225,nicole.nunes.pires@gmail.com,Aveiro,478,237,150,75.62,Pré-Pago
+CUST0984,Patrícia Borges,32,female,940845084,patricia.borges@gmail.com,Setúbal,589,139,130,24.54,Pré-Pago
+CUST0985,Mário Garcia,63,male,937158762,mario.garcia@gmail.com,Setúbal,784,87,50,76.61,Pré-Pago
+CUST0986,Salvador Azevedo Barros,19,male,973870080,salvador.azevedo.barros@gmail.com,Lisboa,211,827,180,65.37,Pré-Pago
+CUST0987,Gil Torres,24,male,922507745,gil.torres@gmail.com,Leiria,178,377,220,24.34,Empresarial
+CUST0988,Fábio Carneiro,22,male,982381739,fabio.carneiro@gmail.com,Lisboa,140,954,250,84.64,Pós-Pago
+CUST0989,Leonardo Abreu,50,male,980067590,leonardo.abreu@gmail.com,Setúbal,349,283,120,106.23,Empresarial
+CUST0990,Joana Fonseca,39,female,981110769,joana.fonseca@gmail.com,Setúbal,394,216,80,113.23,Pós-Pago
+CUST0991,Nelson Matias,19,male,961168696,nelson.matias@gmail.com,Aveiro,198,517,190,98.51,Empresarial
+CUST0992,Naiara Valente,34,female,987325627,naiara.valente@gmail.com,Porto,508,182,140,24.73,Pós-Pago
+CUST0993,Nuno Pires,52,male,941207351,nuno.pires@gmail.com,Porto,313,111,100,75.81,Empresarial
+CUST0994,Íris Tavares Teixeira,33,male,964847632,iris.tavares.teixeira@gmail.com,Faro,259,323,70,10.6,Empresarial
+CUST0995,Enzo Moura,32,male,910954835,enzo.moura@gmail.com,Porto,121,857,170,10.79,Empresarial
+CUST0996,Hugo Leite,37,male,937570830,hugo.leite@gmail.com,Aveiro,554,128,140,49.85,Pré-Pago
+CUST0997,António Campos,33,male,967186360,antonio.campos@gmail.com,Faro,321,309,90,104.05,Pós-Pago
+CUST0998,Bárbara da Matos,23,female,985788756,barbara.da.matos@gmail.com,Aveiro,57,868,200,40.31,Empresarial
+CUST0999,Flor Nascimento,54,male,963345392,flor.nascimento@gmail.com,Coimbra,553,310,140,70.73,Empresarial
+CUST1000,Xavier de Almeida,35,male,974755726,xavier.de.almeida@gmail.com,Braga,465,298,120,71.5,Pós-Pago
