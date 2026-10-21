@@ -4,7 +4,10 @@ Este repositório reúne os projetos e trabalhos desenvolvidos ao longo do 1.º 
 
 Cada pasta corresponde a uma Unidade Curricular (UC), contendo os respetivos trabalhos práticos, código, análises e outros materiais desenvolvidos ao longo do curso.
 
+Os projetos apresentados neste repositório foram desenvolvidos em colaboração por **Rui Filipe Parada, João Vasques e Débora Jesus**.
+
 Este repositório reflete um processo de aprendizagem e consolidação de competências em Business Intelligence & Analytics, abrangendo áreas como otimização, análise exploratória de dados, machine learning, text mining, séries temporais, segurança e privacidade, e ferramentas de Business Intelligence.
+
 
 ### English version
 
@@ -12,13 +15,15 @@ This repository contains the projects and coursework developed throughout the 1s
 
 Each folder corresponds to a course unit (UC), containing the respective practical work, code, analyses, and other materials developed throughout the course.
 
+The projects presented in this repository were developed collaboratively by **Rui Filipe Parada, João Vasques, and Débora Jesus**.
+
 This repository reflects a learning journey focused on developing and consolidating skills in Business Intelligence & Analytics, covering areas such as optimization, exploratory data analysis, machine learning, text mining, time series, security and privacy, and Business Intelligence tools.
 
 ---
 
 ## Colaboradores | Contributors
 
-- **Rui Filipe Parada**
+- **Rui Filipe Pereira Parada**
 - **João Carlos Sousa Vasques**
 - **Débora Soraia Teixeira de Jesus**
 
